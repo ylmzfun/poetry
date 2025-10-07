@@ -1,0 +1,105 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@163.com
+ * @Date: 2025-10-01 18:06:43
+ * @LastEditors: ylmzfun ylmzfun@163.com
+ * @LastEditTime: 2025-10-03 20:46:04
+ * @FilePath: /poetry/诗词/唐诗/芙蓉楼送辛渐.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<h1 id="芙蓉楼送辛渐" tabindex="-1"><a class="header-anchor" href="#芙蓉楼送辛渐"><span>芙蓉楼送辛渐</span></a></h1>
+<p>标题</p>
+<ul>
+<li>题名：芙蓉楼送辛渐</li>
+<li>作者：王昌龄</li>
+<li>体裁：诗（七言绝句）</li>
+<li>简介：凭送别写志，意境高洁峭拔，语言简练有力。</li>
+<li>推荐版本：全唐诗校注、中华书局《王昌龄集》。</li>
+</ul>
+<h2 id="原文" tabindex="-1"><a class="header-anchor" href="#原文"><span>原文</span></a></h2>
+<p>寒雨连江夜入吴，平明送客楚山孤。
+洛阳亲友如相问，一片冰心在玉壶。</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<ul>
+<li><strong>芙蓉楼</strong>：原名西北楼，在润州（今江苏镇江）西北。登临可以俯瞰长江，遥望江北。据《元和郡县志》记载，晋王恭为刺史时，改创西南楼名万岁楼，西北楼名芙蓉楼。</li>
+<li><strong>辛渐</strong>：王昌龄的朋友。</li>
+<li><strong>寒雨</strong>：秋冬时节的冷雨。</li>
+<li><strong>连江</strong>：雨水与江面连成一片，形容雨很大。</li>
+<li><strong>吴</strong>：古代国名，这里泛指江苏南部、浙江北部一带。江苏镇江一带为三国时吴国属地。</li>
+<li><strong>平明</strong>：清晨，天亮的时候。</li>
+<li><strong>客</strong>：指作者的好友辛渐。</li>
+<li><strong>楚山</strong>：楚地的山。春秋时期楚国位于长江中下游一带，楚地附近的山就被称为楚山。这里的楚也指南京一带，因为古代吴、楚先后统治过这里。</li>
+<li><strong>孤</strong>：独自，孤单。</li>
+<li><strong>洛阳</strong>：今属河南，位于河南西部、黄河南岸。</li>
+<li><strong>冰心</strong>：比喻纯洁赤诚之心。</li>
+<li><strong>玉壶</strong>：道教概念妙真道教义，专指自然无为虚无之心。鲍照《代白头吟》有&quot;清如玉壶冰&quot;句，比喻清白的操守。</li>
+</ul>
+<h2 id="译文" tabindex="-1"><a class="header-anchor" href="#译文"><span>译文</span></a></h2>
+<p>冷雨连夜洒遍吴地江天，清晨送走你后，独自面对着楚山离愁无限！到了洛阳，如果洛阳亲友问起我来，就请转告他们，我的心依然像玉壶里的冰那样晶莹纯洁！</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<h3 id="创作背景" tabindex="-1"><a class="header-anchor" href="#创作背景"><span>创作背景</span></a></h3>
+<p>此诗当作于天宝元年（公元742年），王昌龄当时为江宁丞。辛渐是王昌龄的朋友，这次拟由润州渡江，取道扬州，北上洛阳。王昌龄可能陪他从江宁到润州，然后在此分手。这首诗为在江边离别时所写。 <mcreference link="https://baike.baidu.com/item/芙蓉楼送辛渐二首/12546055" index="1">1</mcreference> <mcreference link="https://m.gushiwen.cn/shiwenv_f433a64dd504.aspx" index="2">2</mcreference></p>
+<h3 id="主题思想" tabindex="-1"><a class="header-anchor" href="#主题思想"><span>主题思想</span></a></h3>
+<ol>
+<li><strong>送别之情</strong>：表达了对友人的深深眷恋和不舍之情</li>
+<li><strong>品格表白</strong>：通过&quot;冰心玉壶&quot;表达自己冰清玉洁、坚持操守的信念</li>
+<li><strong>孤寂心境</strong>：展现了诗人在贬谪中的孤独和坚强</li>
+<li><strong>友情深厚</strong>：体现了对洛阳亲友的深情厚谊</li>
+</ol>
+<h3 id="艺术特色" tabindex="-1"><a class="header-anchor" href="#艺术特色"><span>艺术特色</span></a></h3>
+<ol>
+<li><strong>意境高远</strong>：苍茫的江雨和孤峙的楚山，展现了极其高远壮阔的境界 <mcreference link="https://m.gushiwen.cn/shiwenv_f433a64dd504.aspx" index="2">2</mcreference></li>
+<li><strong>情景交融</strong>：将离别之情融入自然景物的描写中</li>
+<li><strong>语言简练</strong>：用词精炼，意蕴深远</li>
+<li><strong>结构严谨</strong>：前两句写景抒情，后两句托物言志</li>
+</ol>
+<h3 id="表现手法" tabindex="-1"><a class="header-anchor" href="#表现手法"><span>表现手法</span></a></h3>
+<ol>
+<li><strong>烘托手法</strong>：用寒雨连江、楚山孤立烘托离别的凄凉气氛</li>
+<li><strong>对比手法</strong>：外在的孤寂与内心的坚定形成对比</li>
+<li><strong>象征手法</strong>：冰心玉壶象征纯洁高尚的品格</li>
+<li><strong>虚实结合</strong>：实写送别场景，虚写内心情感</li>
+</ol>
+<h3 id="结构分析" tabindex="-1"><a class="header-anchor" href="#结构分析"><span>结构分析</span></a></h3>
+<ol>
+<li><strong>首句</strong>：&quot;寒雨连江夜入吴&quot;，写夜雨连江的送别背景，渲染离别气氛</li>
+<li><strong>次句</strong>：&quot;平明送客楚山孤&quot;，写清晨送别的情景，突出孤寂之感</li>
+<li><strong>三句</strong>：&quot;洛阳亲友如相问&quot;，转入对友人的嘱托</li>
+<li><strong>末句</strong>：&quot;一片冰心在玉壶&quot;，表明心志，点出主旨</li>
+</ol>
+<h3 id="名句赏析" tabindex="-1"><a class="header-anchor" href="#名句赏析"><span>名句赏析</span></a></h3>
+<ol>
+<li>
+<p><strong>&quot;寒雨连江夜入吴&quot;</strong>：迷蒙的烟雨笼罩着吴地江天，织成了一张无边无际的愁网。&quot;连&quot;字和&quot;入&quot;字写出雨势的平稳连绵，营造了浩大的气魄。 <mcreference link="https://www.shicile.com/detail/1690093987457" index="3">3</mcreference></p>
+</li>
+<li>
+<p><strong>&quot;平明送客楚山孤&quot;</strong>：清晨送别友人，遥望江北的远山，一个&quot;孤&quot;字如同感情的引线，既写山之孤，更写人之孤。</p>
+</li>
+<li>
+<p><strong>&quot;洛阳亲友如相问，一片冰心在玉壶&quot;</strong>：这是全诗的点睛之笔。诗人托辛渐给洛阳亲友带去的不是通常的平安竹报，而是传达自己依然冰清玉洁、坚持操守的信念。 <mcreference link="https://baike.baidu.com/item/芙蓉楼送辛渐二首/12546055" index="1">1</mcreference></p>
+</li>
+</ol>
+<h3 id="语言特点" tabindex="-1"><a class="header-anchor" href="#语言特点"><span>语言特点</span></a></h3>
+<ol>
+<li><strong>简洁明快</strong>：全诗仅28字，却包含了丰富的内容</li>
+<li><strong>意象鲜明</strong>：寒雨、连江、楚山、冰心、玉壶等意象生动形象</li>
+<li><strong>音韵和谐</strong>：平仄相间，读来朗朗上口</li>
+<li><strong>含蓄蕴藉</strong>：情感表达含蓄深沉，耐人寻味</li>
+</ol>
+<h3 id="思想内涵" tabindex="-1"><a class="header-anchor" href="#思想内涵"><span>思想内涵</span></a></h3>
+<ol>
+<li><strong>品格坚守</strong>：在逆境中仍坚持高洁的品格和操守</li>
+<li><strong>友情珍贵</strong>：体现了对友谊的珍视和对朋友的信任</li>
+<li><strong>人生态度</strong>：展现了诗人开朗的胸怀和坚强的性格</li>
+<li><strong>文化传承</strong>：体现了中国古代文人的精神追求</li>
+</ol>
+<h3 id="文学地位" tabindex="-1"><a class="header-anchor" href="#文学地位"><span>文学地位</span></a></h3>
+<ol>
+<li><strong>送别诗典范</strong>：成为唐代送别诗的经典之作</li>
+<li><strong>七绝精品</strong>：体现了王昌龄&quot;七绝圣手&quot;的艺术水准</li>
+<li><strong>品格象征</strong>：&quot;冰心玉壶&quot;成为高洁品格的经典表达</li>
+<li><strong>影响深远</strong>：对后世送别诗创作产生了深远影响</li>
+</ol>
+<p>这首诗以其高远的意境、深刻的内涵和精湛的艺术技巧，成为中国古典诗歌中的不朽名篇，体现了王昌龄独特的艺术风格和高尚的人格品质。 <mcreference link="https://m.gushiwen.cn/shiwenv_f433a64dd504.aspx" index="2">2</mcreference></p>
+</div></template>
+
+

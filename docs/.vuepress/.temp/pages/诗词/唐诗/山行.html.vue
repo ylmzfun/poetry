@@ -1,0 +1,99 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@163.com
+ * @Date: 2025-10-01 18:06:32
+ * @LastEditors: ylmzfun ylmzfun@163.com
+ * @LastEditTime: 2025-10-01 18:06:33
+ * @FilePath: /诗词/诗词/唐诗/山行.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<h1 id="山行" tabindex="-1"><a class="header-anchor" href="#山行"><span>山行</span></a></h1>
+<p>标题</p>
+<ul>
+<li>题名：山行</li>
+<li>作者：杜牧</li>
+<li>体裁：诗（七言绝句）</li>
+<li>简介：秋景写意，色彩鲜明，意象凝练，描摹山中行旅所见。</li>
+<li>推荐版本：中华书局《杜牧集》、唐诗三百首校注本。</li>
+</ul>
+<h2 id="原文" tabindex="-1"><a class="header-anchor" href="#原文"><span>原文</span></a></h2>
+<p>远上寒山石径斜，白云深处有人家。<br>
+停车坐爱枫林晚，霜叶红于二月花。</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<p><strong>远上：</strong> 向远处延伸而上。<br>
+<strong>寒山：</strong> 深秋时节的山，给人以寒冷的感觉。<br>
+<strong>石径斜：</strong> 石头小路倾斜而上。斜，倾斜。<br>
+<strong>白云深处：</strong> 白云缭绕的深处。<br>
+<strong>人家：</strong> 住户，人家。<br>
+<strong>停车：</strong> 停下车子。这里指停下马车。<br>
+<strong>坐：</strong> 因为，由于。<br>
+<strong>爱：</strong> 喜爱，欣赏。<br>
+<strong>枫林晚：</strong> 傍晚时分的枫树林。<br>
+<strong>霜叶：</strong> 经霜的叶子。<br>
+<strong>红于：</strong> 比...更红。<br>
+<strong>二月花：</strong> 二月里的花朵，指春花。</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<h3 id="创作背景" tabindex="-1"><a class="header-anchor" href="#创作背景"><span>创作背景</span></a></h3>
+<p>《山行》是杜牧的代表作之一，创作于晚唐时期。杜牧在游历山区时，被深秋山景所吸引，特别是枫叶的美丽，因此写下了这首脍炙人口的七言绝句。</p>
+<h3 id="主题思想" tabindex="-1"><a class="header-anchor" href="#主题思想"><span>主题思想</span></a></h3>
+<ol>
+<li><strong>自然之美</strong>：赞美深秋山景的绚丽多彩</li>
+<li><strong>生活情趣</strong>：表现诗人对自然美景的热爱</li>
+<li><strong>哲理思考</strong>：通过对比体现出独特的审美观</li>
+<li><strong>人生感悟</strong>：在自然美景中寻找人生的乐趣</li>
+</ol>
+<h3 id="艺术特色" tabindex="-1"><a class="header-anchor" href="#艺术特色"><span>艺术特色</span></a></h3>
+<ol>
+<li><strong>色彩鲜明</strong>：红、白、绿等色彩对比强烈</li>
+<li><strong>层次分明</strong>：从远到近，从高到低，层次清晰</li>
+<li><strong>动静结合</strong>：行车与停车，动静相宜</li>
+<li><strong>情景交融</strong>：景中有情，情中有景</li>
+</ol>
+<h3 id="表现手法" tabindex="-1"><a class="header-anchor" href="#表现手法"><span>表现手法</span></a></h3>
+<ol>
+<li><strong>对比手法</strong>：霜叶与二月花的对比，突出秋景之美</li>
+<li><strong>层次描写</strong>：远山、白云、人家、枫林，层次递进</li>
+<li><strong>色彩渲染</strong>：运用色彩词汇营造视觉效果</li>
+<li><strong>拟人手法</strong>：&quot;霜叶红于二月花&quot;赋予霜叶生命力</li>
+</ol>
+<h3 id="结构分析" tabindex="-1"><a class="header-anchor" href="#结构分析"><span>结构分析</span></a></h3>
+<ol>
+<li><strong>首句</strong>：写远山石径，点明行程</li>
+<li><strong>次句</strong>：写白云人家，增添生活气息</li>
+<li><strong>三句</strong>：写停车赏景，表现诗人的审美情趣</li>
+<li><strong>末句</strong>：写霜叶之美，点出全诗主旨</li>
+</ol>
+<h3 id="名句赏析" tabindex="-1"><a class="header-anchor" href="#名句赏析"><span>名句赏析</span></a></h3>
+<ol>
+<li>
+<p><strong>&quot;远上寒山石径斜&quot;</strong>：开篇点题，写出山行的环境和路径。</p>
+</li>
+<li>
+<p><strong>&quot;白云深处有人家&quot;</strong>：写出山中的人文景观，增添诗意。</p>
+</li>
+<li>
+<p><strong>&quot;停车坐爱枫林晚&quot;</strong>：写诗人被美景吸引而停车观赏。</p>
+</li>
+<li>
+<p><strong>&quot;霜叶红于二月花&quot;</strong>：全诗的点睛之笔，以对比手法突出秋景之美。</p>
+</li>
+</ol>
+<h3 id="语言特点" tabindex="-1"><a class="header-anchor" href="#语言特点"><span>语言特点</span></a></h3>
+<ol>
+<li><strong>用词精准</strong>：每个字都恰到好处，无一冗余</li>
+<li><strong>音韵和谐</strong>：平仄相间，读来朗朗上口</li>
+<li><strong>意象鲜明</strong>：寒山、白云、枫林、霜叶等意象生动</li>
+<li><strong>语言自然</strong>：不事雕琢，自然流畅</li>
+</ol>
+<h3 id="文学地位" tabindex="-1"><a class="header-anchor" href="#文学地位"><span>文学地位</span></a></h3>
+<p>《山行》在中国文学史上具有重要地位：</p>
+<ol>
+<li><strong>写景诗典范</strong>：成为古代写景诗的经典之作</li>
+<li><strong>教育价值</strong>：被广泛选入教材，影响深远</li>
+<li><strong>艺术成就</strong>：在短短四句中展现了高超的艺术技巧</li>
+<li><strong>文化影响</strong>：&quot;霜叶红于二月花&quot;成为千古名句</li>
+<li><strong>审美价值</strong>：体现了中国人独特的审美情趣</li>
+</ol>
+<p>这首诗以其精美的语言、鲜明的色彩和深刻的意境，成为描写秋景的千古佳作，体现了杜牧清新俊逸的诗风和敏锐的审美感受力。</p>
+</div></template>
+
+

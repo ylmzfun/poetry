@@ -1,0 +1,224 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@foxmail.com
+ * @Date: 2024-10-04 12:00:00
+ * @LastEditors: ylmzfun ylmzfun@foxmail.com
+ * @LastEditTime: 2024-10-04 12:00:00
+ * @FilePath: /Users/ylmzfun/Documents/study/note/poetry/国学/蒙学读物/三字经.md
+ * @Description: 《三字经》- 中国传统蒙学经典
+-->
+<h1 id="三字经" tabindex="-1"><a class="header-anchor" href="#三字经"><span>三字经</span></a></h1>
+<h2 id="简介" tabindex="-1"><a class="header-anchor" href="#简介"><span>简介</span></a></h2>
+<p>《三字经》是中国传统蒙学三大读物之一（另外两部是《百家姓》和《千字文》），相传为南宋王应麟所著。全文共一千多字，三字一句，朗朗上口，因其文通俗、顺口、易记而广为流传。《三字经》内容涵盖了历史、天文、地理、道德以及一些民间传说，体现了古代中国人的世界观和人生观，是学习中华传统文化不可多得的启蒙读物。</p>
+<h2 id="推荐版本" tabindex="-1"><a class="header-anchor" href="#推荐版本"><span>推荐版本</span></a></h2>
+<ul>
+<li><strong>王应麟原本</strong>：南宋王应麟原著版本</li>
+<li><strong>明清增补本</strong>：明清时期学者增补的版本</li>
+<li><strong>现代注释本</strong>：现代学者整理注释的版本</li>
+<li><strong>儿童读物版</strong>：适合儿童阅读的注音版本</li>
+</ul>
+<h2 id="教育价值" tabindex="-1"><a class="header-anchor" href="#教育价值"><span>教育价值</span></a></h2>
+<h3 id="启蒙教育" tabindex="-1"><a class="header-anchor" href="#启蒙教育"><span>启蒙教育</span></a></h3>
+<ul>
+<li><strong>识字教育</strong>：三字一句，便于儿童识字</li>
+<li><strong>韵律教学</strong>：押韵朗朗上口，便于记忆</li>
+<li><strong>知识启蒙</strong>：涵盖历史、地理、道德等基础知识</li>
+</ul>
+<h3 id="道德教育" tabindex="-1"><a class="header-anchor" href="#道德教育"><span>道德教育</span></a></h3>
+<ul>
+<li><strong>孝悌之道</strong>：强调孝敬父母、友爱兄弟</li>
+<li><strong>勤学精神</strong>：提倡勤奋学习的重要性</li>
+<li><strong>品德修养</strong>：培养良好的品德和行为习惯</li>
+</ul>
+<h2 id="经典章节选录" tabindex="-1"><a class="header-anchor" href="#经典章节选录"><span>经典章节选录</span></a></h2>
+<h3 id="开篇-人性论" tabindex="-1"><a class="header-anchor" href="#开篇-人性论"><span>开篇（人性论）</span></a></h3>
+<p><strong>原文</strong>：
+人之初，性本善。性相近，习相远。
+苟不教，性乃迁。教之道，贵以专。</p>
+<h3 id="教育重要性" tabindex="-1"><a class="header-anchor" href="#教育重要性"><span>教育重要性</span></a></h3>
+<p><strong>原文</strong>：
+昔孟母，择邻处。子不学，断机杼。
+窦燕山，有义方。教五子，名俱扬。</p>
+<h3 id="学习态度" tabindex="-1"><a class="header-anchor" href="#学习态度"><span>学习态度</span></a></h3>
+<p><strong>原文</strong>：
+养不教，父之过。教不严，师之惰。
+子不学，非所宜。幼不学，老何为。</p>
+<h3 id="学习工具" tabindex="-1"><a class="header-anchor" href="#学习工具"><span>学习工具</span></a></h3>
+<p><strong>原文</strong>：
+玉不琢，不成器。人不学，不知义。
+为人子，方少时。亲师友，习礼仪。</p>
+<h3 id="数字常识" tabindex="-1"><a class="header-anchor" href="#数字常识"><span>数字常识</span></a></h3>
+<p><strong>原文</strong>：
+一而十，十而百。百而千，千而万。
+三才者，天地人。三光者，日月星。</p>
+<h3 id="伦理道德" tabindex="-1"><a class="header-anchor" href="#伦理道德"><span>伦理道德</span></a></h3>
+<p><strong>原文</strong>：
+父子恩，夫妇从。兄则友，弟则恭。
+长幼序，友与朋。君则敬，臣则忠。</p>
+<h3 id="历史知识" tabindex="-1"><a class="header-anchor" href="#历史知识"><span>历史知识</span></a></h3>
+<p><strong>原文</strong>：
+夏有禹，商有汤。周文武，称三王。
+夏传子，家天下。四百载，迁夏社。</p>
+<h3 id="学习典范" tabindex="-1"><a class="header-anchor" href="#学习典范"><span>学习典范</span></a></h3>
+<p><strong>原文</strong>：
+昔仲尼，师项橐。古圣贤，尚勤学。
+赵中令，读鲁论。彼既仕，学且勤。</p>
+<h3 id="勤学故事" tabindex="-1"><a class="header-anchor" href="#勤学故事"><span>勤学故事</span></a></h3>
+<p><strong>原文</strong>：
+披蒲编，削竹简。彼无书，且知勉。
+头悬梁，锥刺股。彼不教，自勤苦。</p>
+<h3 id="结语劝学" tabindex="-1"><a class="header-anchor" href="#结语劝学"><span>结语劝学</span></a></h3>
+<p><strong>原文</strong>：
+幼而学，壮而行。上致君，下泽民。
+扬名声，显父母。光于前，裕于后。</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<h3 id="开篇注释" tabindex="-1"><a class="header-anchor" href="#开篇注释"><span>开篇注释</span></a></h3>
+<ul>
+<li><strong>人之初，性本善</strong>：人在刚出生时，本性都是善良的</li>
+<li><strong>性相近，习相远</strong>：本性相近，但习俗使人差别很大</li>
+<li><strong>苟不教，性乃迁</strong>：如果不教育，善良的本性就会改变</li>
+<li><strong>教之道，贵以专</strong>：教育的方法，贵在专心一致</li>
+</ul>
+<h3 id="教育重要性注释" tabindex="-1"><a class="header-anchor" href="#教育重要性注释"><span>教育重要性注释</span></a></h3>
+<ul>
+<li><strong>孟母择邻处</strong>：孟子的母亲为了教育孟子而三次搬家</li>
+<li><strong>断机杼</strong>：孟母割断织布机上的线来教育孟子</li>
+<li><strong>窦燕山</strong>：五代时期的窦禹钧，号燕山</li>
+<li><strong>有义方</strong>：有好的教育方法</li>
+<li><strong>名俱扬</strong>：五个儿子都很有名望</li>
+</ul>
+<h3 id="学习态度注释" tabindex="-1"><a class="header-anchor" href="#学习态度注释"><span>学习态度注释</span></a></h3>
+<ul>
+<li><strong>养不教，父之过</strong>：只养育不教育，是父亲的过错</li>
+<li><strong>教不严，师之惰</strong>：教育不严格，是老师的懒惰</li>
+<li><strong>非所宜</strong>：不合适</li>
+<li><strong>老何为</strong>：老了能做什么</li>
+</ul>
+<h3 id="数字常识注释" tabindex="-1"><a class="header-anchor" href="#数字常识注释"><span>数字常识注释</span></a></h3>
+<ul>
+<li><strong>三才</strong>：天、地、人</li>
+<li><strong>三光</strong>：日、月、星</li>
+<li><strong>四时</strong>：春、夏、秋、冬</li>
+<li><strong>四方</strong>：东、南、西、北</li>
+</ul>
+<h3 id="历史知识注释" tabindex="-1"><a class="header-anchor" href="#历史知识注释"><span>历史知识注释</span></a></h3>
+<ul>
+<li><strong>夏有禹</strong>：夏朝有大禹</li>
+<li><strong>商有汤</strong>：商朝有成汤</li>
+<li><strong>周文武</strong>：周朝有文王和武王</li>
+<li><strong>称三王</strong>：被称为三王</li>
+<li><strong>家天下</strong>：把天下当作自己家的财产</li>
+</ul>
+<h3 id="勤学故事注释" tabindex="-1"><a class="header-anchor" href="#勤学故事注释"><span>勤学故事注释</span></a></h3>
+<ul>
+<li><strong>披蒲编</strong>：把蒲草编成席子当书读</li>
+<li><strong>削竹简</strong>：把竹子削成简当纸用</li>
+<li><strong>头悬梁</strong>：把头发悬在房梁上防止打瞌睡</li>
+<li><strong>锥刺股</strong>：用锥子刺大腿防止打瞌睡</li>
+</ul>
+<h2 id="译文" tabindex="-1"><a class="header-anchor" href="#译文"><span>译文</span></a></h2>
+<h3 id="开篇译文" tabindex="-1"><a class="header-anchor" href="#开篇译文"><span>开篇译文</span></a></h3>
+<p>人在刚出生的时候，本性都是善良的。人的本性相近，但是由于生长环境的不同，性情也就有了好与坏的差别。如果从小不好好教育，善良的本性就会变坏。教育孩子的方法，就是要专心一致。</p>
+<h3 id="教育重要性译文" tabindex="-1"><a class="header-anchor" href="#教育重要性译文"><span>教育重要性译文</span></a></h3>
+<p>从前，孟子的母亲，为了使孟子有个好的学习环境，搬了三次家。孟子不好好学习，孟母就割断织布机上的线来教育他。五代时窦燕山，有好的教育方法，教育了五个儿子，都很有名望。</p>
+<h3 id="学习态度译文" tabindex="-1"><a class="header-anchor" href="#学习态度译文"><span>学习态度译文</span></a></h3>
+<p>仅仅是供养儿女吃穿，而不好好教育，是父亲的过错。只是教育，但不严格要求就是做老师的懒惰了。小孩子不肯好好学习，是不应该的。一个人倘若小时候不好好学习，到老的时候既不懂做人的道理，又无知识，能有什么用呢？</p>
+<h3 id="勤学故事译文" tabindex="-1"><a class="header-anchor" href="#勤学故事译文"><span>勤学故事译文</span></a></h3>
+<p>西汉时路温舒把字写在蒲草上读书。公孙弘将春秋刻在竹子削成的竹片上。他们两人都很穷，买不起书，但还这样勤奋学习。汉朝的孙敬读书时把自己的头发拴在房梁上，以免打瞌睡。战国的苏秦读书每当瞌睡时就用锥子刺自己的大腿。他们不用别人督促而自觉勤奋苦读。</p>
+<h3 id="结语劝学译文" tabindex="-1"><a class="header-anchor" href="#结语劝学译文"><span>结语劝学译文</span></a></h3>
+<p>一个人要在幼年时用心学习，长大后才能有所作为，上能够为国家效力，下能够为人民谋福利。能使自己扬名于后世，使父母光彩，能给前代增光，也能给后代留下好的榜样。</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<h3 id="教育价值-1" tabindex="-1"><a class="header-anchor" href="#教育价值-1"><span>教育价值</span></a></h3>
+<p>《三字经》作为传统蒙学经典，具有重要的教育价值：</p>
+<ol>
+<li>
+<p><strong>启蒙教育</strong>：三字一句，韵律优美，便于儿童记忆和学习。</p>
+</li>
+<li>
+<p><strong>知识传授</strong>：涵盖了历史、地理、伦理、道德等基础知识。</p>
+</li>
+<li>
+<p><strong>品德教育</strong>：强调孝悌、勤学、礼仪等传统美德。</p>
+</li>
+<li>
+<p><strong>文化传承</strong>：传承了中华民族的优秀文化传统。</p>
+</li>
+</ol>
+<h3 id="文学特色" tabindex="-1"><a class="header-anchor" href="#文学特色"><span>文学特色</span></a></h3>
+<ol>
+<li>
+<p><strong>三字句式</strong>：每句三字，整齐划一，朗朗上口。</p>
+</li>
+<li>
+<p><strong>押韵和谐</strong>：全文押韵，音韵和谐，便于记忆。</p>
+</li>
+<li>
+<p><strong>内容丰富</strong>：虽然篇幅不长，但内容涵盖面广。</p>
+</li>
+<li>
+<p><strong>通俗易懂</strong>：语言通俗，适合儿童理解。</p>
+</li>
+</ol>
+<h3 id="思想内容" tabindex="-1"><a class="header-anchor" href="#思想内容"><span>思想内容</span></a></h3>
+<ol>
+<li>
+<p><strong>人性论</strong>：提出&quot;人之初，性本善&quot;的人性观点。</p>
+</li>
+<li>
+<p><strong>教育观</strong>：强调教育的重要性和教育方法。</p>
+</li>
+<li>
+<p><strong>道德观</strong>：提倡孝悌、忠信、礼义等传统道德。</p>
+</li>
+<li>
+<p><strong>学习观</strong>：强调勤奋学习的重要性。</p>
+</li>
+</ol>
+<h3 id="历史价值" tabindex="-1"><a class="header-anchor" href="#历史价值"><span>历史价值</span></a></h3>
+<ol>
+<li>
+<p><strong>文化传承</strong>：保存和传承了中华文化的重要内容。</p>
+</li>
+<li>
+<p><strong>教育史料</strong>：反映了古代中国的教育理念和方法。</p>
+</li>
+<li>
+<p><strong>社会风貌</strong>：展现了古代社会的价值观念和生活方式。</p>
+</li>
+<li>
+<p><strong>文学发展</strong>：在中国文学史上占有重要地位。</p>
+</li>
+</ol>
+<h3 id="现代意义" tabindex="-1"><a class="header-anchor" href="#现代意义"><span>现代意义</span></a></h3>
+<ol>
+<li>
+<p><strong>道德教育</strong>：其中的道德理念对现代道德教育仍有借鉴意义。</p>
+</li>
+<li>
+<p><strong>文化认同</strong>：增强了中华民族的文化认同感。</p>
+</li>
+<li>
+<p><strong>教育启示</strong>：其教育方法对现代教育有一定启示作用。</p>
+</li>
+<li>
+<p><strong>文化自信</strong>：作为传统文化的重要组成部分，增强了文化自信。</p>
+</li>
+</ol>
+<h3 id="教学方法" tabindex="-1"><a class="header-anchor" href="#教学方法"><span>教学方法</span></a></h3>
+<ol>
+<li>
+<p><strong>诵读教学</strong>：通过反复诵读来学习和记忆。</p>
+</li>
+<li>
+<p><strong>故事教学</strong>：通过讲解其中的历史故事来理解内容。</p>
+</li>
+<li>
+<p><strong>品德教育</strong>：结合现代生活来理解其中的道德教育内容。</p>
+</li>
+<li>
+<p><strong>文化传承</strong>：作为传统文化教育的重要内容。</p>
+</li>
+</ol>
+<p>《三字经》以其独特的文学形式、丰富的文化内涵和深刻的教育意义，成为中华文化的重要组成部分，对培养儿童的品德修养和文化素质发挥了重要作用，至今仍有重要的教育价值和文化意义。</p>
+</div></template>
+
+

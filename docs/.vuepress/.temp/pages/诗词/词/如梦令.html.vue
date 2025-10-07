@@ -1,0 +1,146 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@163.com
+ * @Date: 2025-10-01 18:08:13
+ * @LastEditors: ylmzfun ylmzfun@163.com
+ * @LastEditTime: 2025-10-01 18:08:48
+ * @FilePath: /诗词/诗词/词/如梦令.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<h1 id="如梦令" tabindex="-1"><a class="header-anchor" href="#如梦令"><span>如梦令</span></a></h1>
+<p>标题</p>
+<ul>
+<li>题名：如梦令</li>
+<li>作者：李清照</li>
+<li>体裁：词（小令）</li>
+<li>简介：婉约清丽之作，常以生活细节入词，音律自然明快。</li>
+<li>推荐版本：龙榆生《唐宋词选》、中华书局《李清照集》。</li>
+</ul>
+<h2 id="原文" tabindex="-1"><a class="header-anchor" href="#原文"><span>原文</span></a></h2>
+<h3 id="其一-常记溪亭日暮" tabindex="-1"><a class="header-anchor" href="#其一-常记溪亭日暮"><span>其一（常记溪亭日暮）</span></a></h3>
+<p>常记溪亭日暮，沉醉不知归路。兴尽晚回舟，误入藕花深处。争渡，争渡，惊起一滩鸥鹭。</p>
+<h3 id="其二-昨夜雨疏风骤" tabindex="-1"><a class="header-anchor" href="#其二-昨夜雨疏风骤"><span>其二（昨夜雨疏风骤）</span></a></h3>
+<p>昨夜雨疏风骤，浓睡不消残酒。试问卷帘人，却道海棠依旧。知否，知否？应是绿肥红瘦。</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<h3 id="其一注释" tabindex="-1"><a class="header-anchor" href="#其一注释"><span>其一注释</span></a></h3>
+<p><strong>常记：</strong> 常常想起。<br>
+<strong>溪亭：</strong> 溪边的亭子。<br>
+<strong>日暮：</strong> 傍晚时分。<br>
+<strong>沉醉：</strong> 喝醉了酒。<br>
+<strong>归路：</strong> 回家的路。<br>
+<strong>兴尽：</strong> 游兴已尽。<br>
+<strong>晚回舟：</strong> 很晚才划船回来。<br>
+<strong>误入：</strong> 无意中进入。<br>
+<strong>藕花深处：</strong> 荷花丛的深处。<br>
+<strong>争渡：</strong> 争着划船过去。<br>
+<strong>一滩：</strong> 一群。<br>
+<strong>鸥鹭：</strong> 鸥鸟和白鹭。</p>
+<h3 id="其二注释" tabindex="-1"><a class="header-anchor" href="#其二注释"><span>其二注释</span></a></h3>
+<p><strong>雨疏风骤：</strong> 雨点稀疏，风很急。<br>
+<strong>浓睡：</strong> 酣睡。<br>
+<strong>不消：</strong> 不能消除。<br>
+<strong>残酒：</strong> 没有完全醒的酒意。<br>
+<strong>试问：</strong> 试着问一问。<br>
+<strong>卷帘人：</strong> 卷帘子的侍女。<br>
+<strong>海棠：</strong> 海棠花。<br>
+<strong>依旧：</strong> 还是老样子。<br>
+<strong>知否：</strong> 知道吗？<br>
+<strong>绿肥红瘦：</strong> 绿叶茂盛，红花凋零。</p>
+<h2 id="译文" tabindex="-1"><a class="header-anchor" href="#译文"><span>译文</span></a></h2>
+<h3 id="其一译文" tabindex="-1"><a class="header-anchor" href="#其一译文"><span>其一译文</span></a></h3>
+<p>常常想起在溪边亭子里游玩到日暮时分，喝醉了酒不知道回家的路。游兴尽了很晚才划船回来，无意中进入了荷花丛的深处。争着划船过去，争着划船过去，惊起了一群鸥鸟和白鹭。</p>
+<h3 id="其二译文" tabindex="-1"><a class="header-anchor" href="#其二译文"><span>其二译文</span></a></h3>
+<p>昨夜雨点稀疏风很急，酣睡也不能消除残余的酒意。试着问卷帘子的侍女，她却说海棠花还是老样子。知道吗？知道吗？应该是绿叶茂盛，红花凋零了。</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<h3 id="创作背景" tabindex="-1"><a class="header-anchor" href="#创作背景"><span>创作背景</span></a></h3>
+<p>这两首《如梦令》都是李清照早期的作品，创作于她与赵明诚新婚不久的幸福时期。第一首写的是少女时代的游玩经历，第二首写的是对春花凋零的感慨。</p>
+<h3 id="主题思想" tabindex="-1"><a class="header-anchor" href="#主题思想"><span>主题思想</span></a></h3>
+<p><strong>其一</strong>：</p>
+<ol>
+<li><strong>青春记忆</strong>：回忆少女时代的美好时光</li>
+<li><strong>自然之乐</strong>：表现对自然美景的热爱</li>
+<li><strong>生活情趣</strong>：展现了闲适的生活情趣</li>
+<li><strong>天真烂漫</strong>：体现了少女的天真活泼</li>
+</ol>
+<p><strong>其二</strong>：</p>
+<ol>
+<li><strong>惜春之情</strong>：对春光易逝的感慨</li>
+<li><strong>细腻情感</strong>：表现女性特有的细腻情感</li>
+<li><strong>生活感悟</strong>：从日常生活中感悟人生</li>
+<li><strong>时光流逝</strong>：对时间流逝的敏感</li>
+</ol>
+<h3 id="艺术特色" tabindex="-1"><a class="header-anchor" href="#艺术特色"><span>艺术特色</span></a></h3>
+<ol>
+<li><strong>语言清新</strong>：用词自然，不事雕琢</li>
+<li><strong>意境优美</strong>：营造了优美的意境</li>
+<li><strong>节奏明快</strong>：音韵和谐，节奏轻快</li>
+<li><strong>情景交融</strong>：情感与景物完美结合</li>
+</ol>
+<h3 id="表现手法" tabindex="-1"><a class="header-anchor" href="#表现手法"><span>表现手法</span></a></h3>
+<ol>
+<li><strong>白描手法</strong>：直接描写，朴素自然</li>
+<li><strong>对话手法</strong>：通过对话增强表现力</li>
+<li><strong>叠词运用</strong>：&quot;争渡，争渡&quot;、&quot;知否，知否&quot;增强音韵美</li>
+<li><strong>细节描写</strong>：通过细节展现人物心理</li>
+</ol>
+<h3 id="结构分析" tabindex="-1"><a class="header-anchor" href="#结构分析"><span>结构分析</span></a></h3>
+<p><strong>其一结构</strong>：</p>
+<ol>
+<li><strong>前两句</strong>：回忆游玩和醉酒</li>
+<li><strong>中两句</strong>：写误入藕花深处</li>
+<li><strong>后三句</strong>：写惊起鸥鹭的情景</li>
+</ol>
+<p><strong>其二结构</strong>：</p>
+<ol>
+<li><strong>前两句</strong>：写昨夜风雨和残酒未醒</li>
+<li><strong>中两句</strong>：写询问侍女</li>
+<li><strong>后三句</strong>：写对花事的感慨</li>
+</ol>
+<h3 id="名句赏析" tabindex="-1"><a class="header-anchor" href="#名句赏析"><span>名句赏析</span></a></h3>
+<ol>
+<li>
+<p><strong>&quot;常记溪亭日暮，沉醉不知归路&quot;</strong>：开篇点题，营造了醉酒游玩的美好回忆。</p>
+</li>
+<li>
+<p><strong>&quot;争渡，争渡，惊起一滩鸥鹭&quot;</strong>：叠词的运用增强了紧张感，写出了急于脱困的心情。</p>
+</li>
+<li>
+<p><strong>&quot;试问卷帘人，却道海棠依旧&quot;</strong>：通过对话展现了主人公对花事的关心。</p>
+</li>
+<li>
+<p><strong>&quot;知否，知否？应是绿肥红瘦&quot;</strong>：以&quot;绿肥红瘦&quot;四字概括春末景象，新颖别致。</p>
+</li>
+</ol>
+<h3 id="语言特点" tabindex="-1"><a class="header-anchor" href="#语言特点"><span>语言特点</span></a></h3>
+<ol>
+<li><strong>口语化</strong>：接近日常口语，自然亲切</li>
+<li><strong>音韵美</strong>：叠词的运用增强了音韵效果</li>
+<li><strong>形象生动</strong>：用词形象，富有表现力</li>
+<li><strong>简洁明快</strong>：语言简洁，表达明快</li>
+</ol>
+<h3 id="思想内涵" tabindex="-1"><a class="header-anchor" href="#思想内涵"><span>思想内涵</span></a></h3>
+<ol>
+<li><strong>生活美学</strong>：体现了对美好生活的追求</li>
+<li><strong>女性视角</strong>：展现了女性特有的情感体验</li>
+<li><strong>自然情怀</strong>：表现了对自然的热爱</li>
+<li><strong>时间意识</strong>：对时光流逝的敏感认知</li>
+</ol>
+<h3 id="艺术成就" tabindex="-1"><a class="header-anchor" href="#艺术成就"><span>艺术成就</span></a></h3>
+<ol>
+<li><strong>词体创新</strong>：在小令创作上有所创新</li>
+<li><strong>语言贡献</strong>：丰富了词的语言表达</li>
+<li><strong>情感表达</strong>：真实自然地表达了女性情感</li>
+<li><strong>意境营造</strong>：营造了独特的艺术意境</li>
+</ol>
+<h3 id="文学地位" tabindex="-1"><a class="header-anchor" href="#文学地位"><span>文学地位</span></a></h3>
+<p>这两首《如梦令》在中国文学史上具有重要地位：</p>
+<ol>
+<li><strong>婉约词典范</strong>：成为婉约词的经典之作</li>
+<li><strong>女性文学代表</strong>：代表了古代女性文学的最高成就</li>
+<li><strong>语言艺术</strong>：在语言艺术上达到了很高水准</li>
+<li><strong>文化影响</strong>：对后世词作产生了深远影响</li>
+<li><strong>美学价值</strong>：体现了独特的美学追求</li>
+</ol>
+<p>李清照的这两首《如梦令》以其清新自然的语言、优美的意境和真挚的情感，成为中国古典词作中的珍品，展现了女词人独特的艺术魅力和深厚的文学功底。</p>
+</div></template>
+
+

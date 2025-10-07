@@ -1,0 +1,193 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@foxmail.com
+ * @Date: 2024-10-04 09:30:00
+ * @LastEditors: ylmzfun ylmzfun@foxmail.com
+ * @LastEditTime: 2024-10-04 09:30:00
+ * @FilePath: /Users/ylmzfun/Documents/study/note/poetry/国学/五经/尚书.md
+ * @Description: 《尚书》- 中国最早的历史文献汇编
+-->
+<h1 id="尚书" tabindex="-1"><a class="header-anchor" href="#尚书"><span>尚书</span></a></h1>
+<h2 id="简介" tabindex="-1"><a class="header-anchor" href="#简介"><span>简介</span></a></h2>
+<p>《尚书》，又称《书》或《书经》，是中国最早的历史文献汇编，记录了从尧舜到春秋时期的重要历史事件、政治文献和君王言论。&quot;尚&quot;即&quot;上&quot;，意为&quot;上古&quot;，全书共58篇，分为《虞书》、《夏书》、《商书》、《周书》四个部分。《尚书》是研究中国古代政治制度、思想文化的重要典籍，被列为五经之一。</p>
+<h2 id="推荐版本" tabindex="-1"><a class="header-anchor" href="#推荐版本"><span>推荐版本</span></a></h2>
+<ul>
+<li><strong>孔安国传</strong>：《古文尚书》，传统注释本</li>
+<li><strong>蔡沈集传</strong>：《书集传》，宋代理学家的经典注释</li>
+<li><strong>现代注释</strong>：顾颉刚《尚书校释译论》，现代学术研究成果</li>
+</ul>
+<h2 id="结构分类" tabindex="-1"><a class="header-anchor" href="#结构分类"><span>结构分类</span></a></h2>
+<h3 id="虞书-5篇" tabindex="-1"><a class="header-anchor" href="#虞书-5篇"><span>虞书（5篇）</span></a></h3>
+<p>记录尧、舜、禹时期的政治活动：</p>
+<ul>
+<li>尧典</li>
+<li>舜典</li>
+<li>大禹谟</li>
+<li>皋陶谟</li>
+<li>益稷</li>
+</ul>
+<h3 id="夏书-4篇" tabindex="-1"><a class="header-anchor" href="#夏书-4篇"><span>夏书（4篇）</span></a></h3>
+<p>记录夏朝的历史：</p>
+<ul>
+<li>禹贡</li>
+<li>甘誓</li>
+<li>五子之歌</li>
+<li>胤征</li>
+</ul>
+<h3 id="商书-17篇" tabindex="-1"><a class="header-anchor" href="#商书-17篇"><span>商书（17篇）</span></a></h3>
+<p>记录商朝的政治文献：</p>
+<ul>
+<li>汤誓</li>
+<li>仲虺之诰</li>
+<li>汤诰</li>
+<li>伊训</li>
+<li>太甲上、中、下</li>
+<li>咸有一德</li>
+<li>盘庚上、中、下</li>
+<li>说命上、中、下</li>
+<li>高宗肜日</li>
+<li>西伯戡黎</li>
+<li>微子</li>
+</ul>
+<h3 id="周书-32篇" tabindex="-1"><a class="header-anchor" href="#周书-32篇"><span>周书（32篇）</span></a></h3>
+<p>记录西周的重要文献：</p>
+<ul>
+<li>泰誓上、中、下</li>
+<li>牧誓</li>
+<li>武成</li>
+<li>洪范</li>
+<li>旅獒</li>
+<li>金滕</li>
+<li>大诰</li>
+<li>微子之命</li>
+<li>蔡仲之命</li>
+<li>多士</li>
+<li>无逸</li>
+<li>君奭</li>
+<li>多方</li>
+<li>立政</li>
+<li>周官</li>
+<li>君陈</li>
+<li>顾命</li>
+<li>康王之诰</li>
+<li>酒诰</li>
+<li>梓材</li>
+<li>召诰</li>
+<li>洛诰</li>
+<li>多士</li>
+<li>无逸</li>
+<li>君奭</li>
+<li>蔡仲之命</li>
+<li>多方</li>
+<li>立政</li>
+<li>周官</li>
+<li>君陈</li>
+<li>顾命</li>
+<li>康王之诰</li>
+<li>吕刑</li>
+</ul>
+<h2 id="经典篇目选录" tabindex="-1"><a class="header-anchor" href="#经典篇目选录"><span>经典篇目选录</span></a></h2>
+<h3 id="尧典-节选" tabindex="-1"><a class="header-anchor" href="#尧典-节选"><span>尧典（节选）</span></a></h3>
+<p>曰若稽古，帝尧曰放勋，钦明文思安安，允恭克让，光被四表，格于上下。克明俊德，以亲九族。九族既睦，平章百姓。百姓昭明，协和万邦。黎民于变时雍。</p>
+<p>乃命羲和，钦若昊天，历象日月星辰，敬授人时。分命羲仲，宅嵎夷，曰旸谷。寅宾出日，平秩东作。日中，星鸟，以殷仲春。厥民析，鸟兽孳尾。</p>
+<h3 id="舜典-节选" tabindex="-1"><a class="header-anchor" href="#舜典-节选"><span>舜典（节选）</span></a></h3>
+<p>慎徽五典，五典克从。纳于百揆，百揆时叙。宾于四门，四门穆穆。纳于大麓，烈风雷雨弗迷。帝曰：&quot;格！汝舜。询事考言，乃言底可绩，三载。汝陟帝位。&quot;舜让于德，弗嗣。</p>
+<p>正月上日，受终于文祖。在璇玑玉衡，以齐七政。肆类于上帝，禋于六宗，望于山川，遍于群神。辑五瑞，既月乃日，觐四岳群牧，班瑞于群后。</p>
+<h3 id="禹贡-节选" tabindex="-1"><a class="header-anchor" href="#禹贡-节选"><span>禹贡（节选）</span></a></h3>
+<p>禹别九州，随山浚川，任土作贡。</p>
+<p>冀州：既载壶口，治梁及岐。既修太原，至于岳阳。覃怀底绩，至于衡漳。厥土惟白壤，厥赋惟上上错，厥田惟中中。恒、卫既从，大陆既作。岛夷皮服，夹右碣石入于河。</p>
+<p>兖州：济河惟兖州。九河既道，雷夏既泽，灉、沮会同。桑土既蚕，是降丘宅土。厥土惟黑坟，厥草惟繇，厥木惟条。厥田惟中下，厥赋贞，厥贡漆丝，厥篚织文。浮于济、漯，达于河。</p>
+<h3 id="洪范-节选" tabindex="-1"><a class="header-anchor" href="#洪范-节选"><span>洪范（节选）</span></a></h3>
+<p>惟十有三祀，王访于箕子。王乃言曰：&quot;呜呼！箕子。惟天阴骘下民，相协厥居，我不知其彝伦攸叙。&quot;</p>
+<p>箕子乃言曰：&quot;我闻在昔，鲧堙洪水，汩陈其五行。帝乃震怒，不畀洪范九畴，彝伦攸斁。鲧则殛死，禹乃嗣兴，天乃锡禹洪范九畴，彝伦攸叙。&quot;</p>
+<p>初一曰五行：一曰水，二曰火，三曰木，四曰金，五曰土。水曰润下，火曰炎上，木曰曲直，金曰从革，土爰稼穑。润下作咸，炎上作苦，曲直作酸，从革作辛，稼穑作甘。</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<h3 id="尧典注释" tabindex="-1"><a class="header-anchor" href="#尧典注释"><span>尧典注释</span></a></h3>
+<ul>
+<li><strong>放勋</strong>：尧的名字</li>
+<li><strong>钦明文思安安</strong>：恭敬明智，文雅深思，安详宁静</li>
+<li><strong>允恭克让</strong>：诚实恭敬，能够谦让</li>
+<li><strong>光被四表</strong>：德泽普照四方</li>
+<li><strong>格于上下</strong>：感化天地</li>
+<li><strong>羲和</strong>：古代掌管天文历法的官员</li>
+</ul>
+<h3 id="舜典注释" tabindex="-1"><a class="header-anchor" href="#舜典注释"><span>舜典注释</span></a></h3>
+<ul>
+<li><strong>慎徽五典</strong>：谨慎地发扬五种常道（父义、母慈、兄友、弟恭、子孝）</li>
+<li><strong>百揆</strong>：百官之首</li>
+<li><strong>四门</strong>：四方之门，指朝廷</li>
+<li><strong>大麓</strong>：大山林，指艰难的环境</li>
+<li><strong>文祖</strong>：祖庙</li>
+</ul>
+<h3 id="禹贡注释" tabindex="-1"><a class="header-anchor" href="#禹贡注释"><span>禹贡注释</span></a></h3>
+<ul>
+<li><strong>九州</strong>：古代中国的九个州</li>
+<li><strong>任土作贡</strong>：根据土地条件确定贡赋</li>
+<li><strong>冀州</strong>：九州之一，在今河北、山西一带</li>
+<li><strong>兖州</strong>：九州之一，在今山东西部</li>
+</ul>
+<h3 id="洪范注释" tabindex="-1"><a class="header-anchor" href="#洪范注释"><span>洪范注释</span></a></h3>
+<ul>
+<li><strong>箕子</strong>：商朝贤臣</li>
+<li><strong>阴骘</strong>：暗中保佑</li>
+<li><strong>五行</strong>：水、火、木、金、土五种基本元素</li>
+<li><strong>九畴</strong>：九种治国大法</li>
+</ul>
+<h2 id="译文" tabindex="-1"><a class="header-anchor" href="#译文"><span>译文</span></a></h2>
+<h3 id="尧典译文" tabindex="-1"><a class="header-anchor" href="#尧典译文"><span>尧典译文</span></a></h3>
+<p>考察古代的历史，帝尧名叫放勋，恭敬明智，文雅深思，安详宁静，诚实恭敬而能谦让，德泽普照四方，感化天地。能够彰明美德，以此亲近九族。九族和睦之后，又教化百姓。百姓都很明理，协调万邦。人民因此和谐安定。</p>
+<p>于是命令羲和，恭敬地顺应上天，观察日月星辰的运行，恭敬地把时令授给人民。分别命令羲仲，居住在东方叫做旸谷的地方。恭敬地迎接太阳出来，安排好春季的农事。春分时节，南方朱雀星座出现，以此确定仲春时节。这时人民开始分散劳作，鸟兽开始交配繁殖。</p>
+<h3 id="洪范译文" tabindex="-1"><a class="header-anchor" href="#洪范译文"><span>洪范译文</span></a></h3>
+<p>十三年，武王拜访箕子。武王说：&quot;啊！箕子。上天暗中保佑下民，帮助他们安居乐业，我不知道那些常理法则是怎样安排的。&quot;</p>
+<p>箕子于是说：&quot;我听说从前，鲧用堵塞的方法治理洪水，扰乱了五行的秩序。上帝因此震怒，不把洪范九畴赐给他，常理法则因此败坏。鲧于是被处死，禹接着兴起，上天于是把洪范九畴赐给禹，常理法则因此得到安排。&quot;</p>
+<p>第一是五行：一是水，二是火，三是木，四是金，五是土。水的性质是润湿向下，火的性质是炎热向上，木的性质是弯曲伸直，金的性质是顺从变革，土的性质是播种收获。润湿向下产生咸味，炎热向上产生苦味，弯曲伸直产生酸味，顺从变革产生辛味，播种收获产生甘味。</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<h3 id="史学价值" tabindex="-1"><a class="header-anchor" href="#史学价值"><span>史学价值</span></a></h3>
+<p>《尚书》作为中国最早的史书，具有重要的史学价值：</p>
+<ol>
+<li>
+<p><strong>史料价值</strong>：保存了大量珍贵的古代史料，是研究上古历史的重要文献。</p>
+</li>
+<li>
+<p><strong>政治制度</strong>：记录了古代政治制度的发展演变，特别是王权政治的形成过程。</p>
+</li>
+<li>
+<p><strong>思想文化</strong>：反映了古代的政治思想、道德观念和文化传统。</p>
+</li>
+<li>
+<p><strong>语言文字</strong>：保存了古代汉语的珍贵资料，对研究汉语发展史具有重要意义。</p>
+</li>
+</ol>
+<h3 id="思想内容" tabindex="-1"><a class="header-anchor" href="#思想内容"><span>思想内容</span></a></h3>
+<ol>
+<li>
+<p><strong>德治思想</strong>：强调统治者要有德行，以德治国，这成为中国政治思想的重要传统。</p>
+</li>
+<li>
+<p><strong>民本思想</strong>：提出&quot;民惟邦本，本固邦宁&quot;的思想，体现了对民众的重视。</p>
+</li>
+<li>
+<p><strong>天人关系</strong>：阐述了天、地、人的关系，形成了&quot;天人合一&quot;的思想体系。</p>
+</li>
+<li>
+<p><strong>政治理想</strong>：描绘了理想的政治状态，对后世政治思想产生了深远影响。</p>
+</li>
+</ol>
+<h3 id="文学特色" tabindex="-1"><a class="header-anchor" href="#文学特色"><span>文学特色</span></a></h3>
+<ol>
+<li>
+<p><strong>文体多样</strong>：包含了诰、誓、典、谟等多种文体，丰富了古代散文的形式。</p>
+</li>
+<li>
+<p><strong>语言庄重</strong>：用词典雅，句式整齐，具有庄严肃穆的风格。</p>
+</li>
+<li>
+<p><strong>修辞手法</strong>：运用排比、对偶等修辞手法，增强了文章的表现力。</p>
+</li>
+<li>
+<p><strong>叙事简洁</strong>：叙事简明扼要，重点突出，具有史书的特点。</p>
+</li>
+</ol>
+<p>《尚书》不仅是重要的历史文献，也是中国古代政治思想和文学艺术的重要载体，对中华文明的发展产生了深远影响。</p>
+</div></template>
+
+

@@ -1,0 +1,1406 @@
+// 国风古典文学主题样式
+
+// CSS变量定义 - 优雅国风配色
+:root {
+  // 主色调 - 墨韵青花
+  --c-brand: #2c5aa0;           // 青花蓝
+  --c-brand-light: #4a7bc8;    // 浅青花
+  --c-brand-dark: #1e3f73;     // 深青花
+  --c-brand-accent: #8b4513;   // 古铜色点缀
+  
+  // 背景色 - 宣纸质感
+  --c-bg: #fdfcf8;             // 宣纸白
+  --c-bg-light: #fffef9;       // 纯净白
+  --c-bg-dark: #f8f6f0;        // 古纸黄
+  --c-bg-accent: #f5f3ed;      // 米色
+  
+  // 文字色 - 墨色层次
+  --c-text: #1a1a1a;           // 浓墨
+  --c-text-light: #4a4a4a;     // 淡墨
+  --c-text-lighter: #6a6a6a;   // 轻墨
+  --c-text-muted: #8a8a8a;     // 灰墨
+  
+  // 边框色 - 金石印章
+  --c-border: #d4af37;         // 金色
+  --c-border-light: #e6c866;   // 浅金
+  --c-border-dark: #b8941f;    // 深金
+  --c-border-accent: #c9302c;  // 朱砂红
+  
+  // 阴影 - 柔和层次
+  --shadow-1: 0 2px 8px rgba(44, 90, 160, 0.08);
+  --shadow-2: 0 4px 16px rgba(44, 90, 160, 0.12);
+  --shadow-3: 0 8px 24px rgba(44, 90, 160, 0.16);
+  
+  // 字体 - 国风字体栈
+  --font-family-heading: 'Ma Shan Zheng', 'Noto Serif SC', 'Source Han Serif SC', 'STSong', serif;
+  --font-family-text: 'Noto Sans SC', 'Source Han Sans SC', 'PingFang SC', 'Microsoft YaHei', sans-serif;
+  --font-family-code: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+}
+
+// 全局样式重置与基础设置
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  background: linear-gradient(135deg, var(--c-bg-light) 0%, var(--c-bg) 50%, var(--c-bg-dark) 100%);
+  background-attachment: fixed;
+  min-height: 100vh;
+  scroll-behavior: smooth;
+}
+
+body {
+  font-family: var(--font-family-text);
+  background: transparent;
+  color: var(--c-text);
+  line-height: 1.8;
+  letter-spacing: 0.5px;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+// 导航栏样式 - 青花瓷风格
+.navbar {
+  background: linear-gradient(135deg, var(--c-brand) 0%, var(--c-brand-light) 50%, var(--c-brand-dark) 100%);
+  border-bottom: 3px solid var(--c-border);
+  box-shadow: var(--shadow-2);
+  backdrop-filter: blur(10px);
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='0.05'%3E%3Cpath d='M20 20c0-5.5-4.5-10-10-10s-10 4.5-10 10 4.5 10 10 10 10-4.5 10-10zm10 0c0 5.5 4.5 10 10 10s10-4.5 10-10-4.5-10-10-10-10 4.5-10 10z'/%3E%3C/g%3E%3C/svg%3E");
+    pointer-events: none;
+  }
+  
+  .navbar-brand {
+    font-family: var(--font-family-heading);
+    font-weight: 700;
+    color: #fff !important;
+    font-size: 1.4rem;
+    text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    transition: all 0.3s ease;
+    
+    &::before {
+      content: '🏮 ';
+      margin-right: 0.5rem;
+      font-size: 1.2rem;
+    }
+    
+    &:hover {
+      transform: scale(1.05);
+      text-shadow: 0 4px 8px rgba(0,0,0,0.4);
+    }
+  }
+  
+  .navbar-links a {
+    color: rgba(255, 255, 255, 0.95) !important;
+    font-weight: 500;
+    transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+    position: relative;
+    padding: 0.5rem 1rem;
+    border-radius: 6px;
+    text-shadow: 0 1px 2px rgba(0,0,0,0.2);
+    
+    &:hover {
+      color: #fff !important;
+      background: rgba(255, 255, 255, 0.1);
+      transform: translateY(-2px);
+      text-shadow: 0 2px 4px rgba(0,0,0,0.3);
+    }
+    
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: 0;
+      left: 50%;
+      width: 0;
+      height: 2px;
+      background: linear-gradient(90deg, var(--c-border), var(--c-border-light));
+      transition: all 0.3s ease;
+      transform: translateX(-50%);
+      border-radius: 1px;
+    }
+    
+    &:hover::after {
+      width: 80%;
+    }
+  }
+}
+
+// 侧边栏样式 - 古典书卷风格
+.sidebar {
+  background: linear-gradient(180deg, var(--c-bg-light) 0%, var(--c-bg) 100%);
+  border-right: 3px solid var(--c-border);
+  box-shadow: var(--shadow-2);
+  backdrop-filter: blur(5px);
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    right: 0;
+    width: 1px;
+    height: 100%;
+    background: linear-gradient(180deg, transparent, var(--c-border-light), transparent);
+  }
+  
+  .sidebar-heading {
+    font-family: var(--font-family-heading);
+    color: var(--c-brand);
+    font-weight: 600;
+    font-size: 1.1rem;
+    border-bottom: 2px solid var(--c-border);
+    padding: 1rem 1.5rem 0.8rem;
+    margin-bottom: 1rem;
+    background: linear-gradient(135deg, rgba(44, 90, 160, 0.05), rgba(212, 175, 55, 0.05));
+    position: relative;
+    
+    &::before {
+      content: '📜 ';
+      color: var(--c-border);
+      margin-right: 0.5rem;
+      font-size: 1rem;
+    }
+    
+    &::after {
+      content: '';
+      position: absolute;
+      bottom: -2px;
+      left: 1.5rem;
+      right: 1.5rem;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, var(--c-border), transparent);
+    }
+  }
+  
+  .sidebar-links {
+    padding: 0 1rem;
+    
+    a {
+      display: block;
+      padding: 0.6rem 1rem;
+      margin: 0.3rem 0;
+      border-radius: 8px;
+      transition: all 0.3s ease;
+      position: relative;
+      
+      &:hover {
+        background: rgba(44, 90, 160, 0.08);
+        transform: translateX(4px);
+        box-shadow: var(--shadow-1);
+      }
+      
+      &.active {
+        background: linear-gradient(135deg, rgba(44, 90, 160, 0.1), rgba(212, 175, 55, 0.1));
+        border-left: 3px solid var(--c-brand);
+        font-weight: 600;
+      }
+    }
+  }
+}
+
+// 主内容区域 - 宣纸卷轴风格
+.theme-default-content {
+  background: var(--c-bg);
+  padding: 3rem 4rem;
+  margin: 2rem;
+  border-radius: 16px;
+  box-shadow: var(--shadow-3);
+  border: 2px solid var(--c-border-light);
+  position: relative;
+  overflow: hidden;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: 
+      radial-gradient(circle at 20% 20%, rgba(212, 175, 55, 0.03) 0%, transparent 50%),
+      radial-gradient(circle at 80% 80%, rgba(44, 90, 160, 0.03) 0%, transparent 50%),
+      url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d4af37' fill-opacity='0.02'%3E%3Cpath d='M30 30c0-11.046-8.954-20-20-20s-20 8.954-20 20 8.954 20 20 20 20-8.954 20-20zm0 0c0 11.046 8.954 20 20 20s20-8.954 20-20-8.954-20-20-20-20 8.954-20 20z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+    pointer-events: none;
+    z-index: 0;
+  }
+  
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 6px;
+    background: linear-gradient(180deg, var(--c-brand), var(--c-brand-light), var(--c-border));
+    border-radius: 0 0 0 16px;
+    z-index: 1;
+  }
+  
+  // 内容层级
+  > * {
+    position: relative;
+    z-index: 2;
+  }
+  
+  // 装饰印章
+  .content-seal {
+    position: absolute;
+    top: 2rem;
+    right: 3rem;
+    width: 60px;
+    height: 60px;
+    background: radial-gradient(circle, var(--c-border-accent), var(--c-border-dark));
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 1.2rem;
+    font-weight: bold;
+    opacity: 0.1;
+    z-index: 1;
+    
+    &::before {
+      content: '印';
+    }
+  }
+}
+
+.page {
+  background: linear-gradient(135deg, rgba(250, 248, 243, 0.9) 0%, rgba(245, 242, 237, 0.9) 100%);
+  background-image: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23d4af37' fill-opacity='0.05'%3E%3Cpath d='M30 30c0-11.046-8.954-20-20-20s-20 8.954-20 20 8.954 20 20 20 20-8.954 20-20zm0 0c0 11.046 8.954 20 20 20s20-8.954 20-20-8.954-20-20-20-20 8.954-20 20z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+  background-attachment: fixed;
+  min-height: 100vh;
+}
+
+.theme-container {
+  display: flex;
+  min-height: 100vh;
+  
+  .sidebar {
+    flex: 0 0 20rem;
+  }
+  
+  .page {
+    flex: 1;
+  }
+}
+
+// 标题样式 - 国风书法风格
+h1, h2, h3, h4, h5, h6 {
+  font-family: var(--font-family-heading);
+  color: var(--c-brand);
+  font-weight: 600;
+  line-height: 1.4;
+  margin-top: 0;
+}
+
+h1 {
+  font-size: 2.8rem;
+  text-align: center;
+  margin: 3rem 0 2.5rem 0;
+  padding: 2rem 0 1.5rem 0;
+  border-bottom: 3px double var(--c-border);
+  position: relative;
+  color: var(--c-brand-dark);
+  text-shadow: 0 2px 4px rgba(44, 90, 160, 0.1);
+  
+  &::before {
+    content: '❦ ❦ ❦';
+    display: block;
+    color: var(--c-border);
+    font-size: 1.2rem;
+    margin-bottom: 1.5rem;
+    letter-spacing: 1.5rem;
+    opacity: 0.8;
+  }
+  
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -6px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 120px;
+    height: 3px;
+    background: linear-gradient(90deg, transparent, var(--c-border), transparent);
+    border-radius: 2px;
+  }
+}
+
+h2 {
+  font-size: 2rem;
+  margin: 2.5rem 0 1.5rem 0;
+  padding: 1rem 0 0.8rem 1.5rem;
+  border-left: 5px solid var(--c-brand);
+  background: linear-gradient(135deg, rgba(44, 90, 160, 0.05), transparent);
+  border-radius: 0 8px 8px 0;
+  position: relative;
+  
+  &::before {
+    content: '◆';
+    color: var(--c-border);
+    margin-right: 0.8rem;
+    font-size: 1.2rem;
+  }
+  
+  &::after {
+    content: '';
+    position: absolute;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 2px;
+    background: var(--c-border);
+    border-radius: 1px;
+  }
+}
+
+h3 {
+  font-size: 1.6rem;
+  margin: 2rem 0 1rem 0;
+  color: var(--c-brand-dark);
+  position: relative;
+  padding-left: 2rem;
+  
+  &::before {
+    content: '❋';
+    position: absolute;
+    left: 0;
+    color: var(--c-border);
+    font-size: 1.4rem;
+  }
+  
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -4px;
+    left: 2rem;
+    width: 60px;
+    height: 2px;
+    background: linear-gradient(90deg, var(--c-brand), transparent);
+    border-radius: 1px;
+  }
+}
+
+h4 {
+  font-size: 1.3rem;
+  margin: 1.5rem 0 0.8rem 0;
+  color: var(--c-brand);
+  
+  &::before {
+    content: '※ ';
+    color: var(--c-border);
+    margin-right: 0.5rem;
+  }
+}
+
+h5, h6 {
+  font-size: 1.1rem;
+  margin: 1.2rem 0 0.6rem 0;
+  color: var(--c-text);
+  
+  &::before {
+    content: '• ';
+    color: var(--c-border);
+    margin-right: 0.3rem;
+  }
+}
+
+// 段落样式 - 古典文学排版
+p {
+  margin: 1.8rem 0;
+  line-height: 1.9;
+  text-indent: 2em;
+  letter-spacing: 0.8px;
+  color: var(--c-text);
+  text-align: justify;
+  
+  &:first-of-type {
+    margin-top: 0;
+    
+    &::first-letter {
+      font-size: 3.5em;
+      float: left;
+      line-height: 0.8;
+      margin: 0.1em 0.15em 0 0;
+      color: var(--c-brand);
+      font-family: var(--font-family-heading);
+      font-weight: bold;
+      text-shadow: 0 2px 4px rgba(44, 90, 160, 0.2);
+      background: linear-gradient(135deg, var(--c-brand), var(--c-brand-light));
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+    }
+  }
+  
+  & + p {
+    position: relative;
+    margin-top: 2rem;
+    
+    &::before {
+      content: '❦';
+      position: absolute;
+      top: -1.2rem;
+      left: 50%;
+      transform: translateX(-50%);
+      color: var(--c-border);
+      font-size: 1.2rem;
+      opacity: 0.6;
+    }
+  }
+  
+  // 强调文本
+  strong {
+    color: var(--c-brand-dark);
+    font-weight: 600;
+    position: relative;
+    
+    &::before,
+    &::after {
+      content: '「';
+      color: var(--c-border);
+      font-size: 0.9em;
+      opacity: 0.7;
+    }
+    
+    &::after {
+      content: '」';
+    }
+  }
+  
+  em {
+    color: var(--c-brand);
+    font-style: normal;
+    position: relative;
+    
+    &::before,
+    &::after {
+      content: '·';
+      color: var(--c-border);
+      font-size: 0.8em;
+    }
+  }
+}
+
+// 列表样式 - 古典装饰
+ul, ol {
+  margin: 2rem 0;
+  padding-left: 3rem;
+  
+  li {
+    margin: 0.8rem 0;
+    line-height: 1.8;
+    position: relative;
+    
+    &::marker {
+      color: var(--c-brand);
+    }
+  }
+}
+
+ul li {
+  list-style: none;
+  
+  &::before {
+    content: '◉';
+    color: var(--c-border);
+    position: absolute;
+    left: -2rem;
+    top: 0.1rem;
+    font-size: 0.8rem;
+  }
+  
+  // 嵌套列表
+  ul li::before {
+    content: '◦';
+    font-size: 1rem;
+  }
+  
+  ul ul li::before {
+    content: '▫';
+    font-size: 0.9rem;
+  }
+}
+
+ol li {
+  &::marker {
+    font-family: var(--font-family-heading);
+    font-weight: 600;
+  }
+}
+
+// 链接样式 - 古典装饰
+a {
+  color: var(--c-brand);
+  text-decoration: none;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  position: relative;
+  font-weight: 500;
+  
+  &:hover {
+    color: var(--c-brand-dark);
+    text-shadow: 0 1px 2px rgba(44, 90, 160, 0.2);
+  }
+  
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -2px;
+    left: 0;
+    width: 0;
+    height: 2px;
+    background: linear-gradient(90deg, var(--c-brand), var(--c-border));
+    transition: width 0.3s ease;
+    border-radius: 1px;
+  }
+  
+  &:hover::after {
+    width: 100%;
+  }
+  
+  // 外部链接装饰
+  &[href^="http"]::before {
+    content: '🔗 ';
+    font-size: 0.8em;
+    opacity: 0.7;
+    margin-right: 0.2em;
+  }
+}
+
+// 诗词特殊样式
+.poem {
+  background: linear-gradient(135deg, #fefcf7 0%, #faf8f3 100%);
+  border: 2px solid var(--c-border);
+  border-radius: 8px;
+  padding: 2rem;
+  margin: 2rem 0;
+  position: relative;
+  
+  &::before,
+  &::after {
+    content: '❦';
+    position: absolute;
+    color: var(--c-border);
+    font-size: 1.5rem;
+  }
+  
+  &::before {
+    top: 1rem;
+    left: 1rem;
+  }
+  
+  &::after {
+    bottom: 1rem;
+    right: 1rem;
+  }
+  
+  .poem-line {
+    text-align: center;
+    margin: 0.8rem 0;
+    font-family: var(--font-family-heading);
+    font-size: 1.1rem;
+    line-height: 1.6;
+  }
+  
+  .poem-title {
+    text-align: center;
+    font-size: 1.3rem;
+    font-weight: 600;
+    color: var(--c-brand);
+    margin-bottom: 1.5rem;
+    border-bottom: 1px solid var(--c-border);
+    padding-bottom: 0.5rem;
+  }
+  
+  .poem-author {
+    text-align: right;
+    font-style: italic;
+    color: var(--c-text-light);
+    margin-top: 1.5rem;
+    font-size: 0.9rem;
+  }
+}
+
+// 代码块样式 - 古典竹简风格
+pre, code {
+  font-family: 'Fira Code', 'Monaco', 'Consolas', monospace;
+  background: linear-gradient(135deg, #f8f6f0, #f5f2e8);
+  border: 2px solid var(--c-border);
+  border-radius: 8px;
+  position: relative;
+}
+
+code {
+  padding: 0.3em 0.6em;
+  font-size: 0.9em;
+  color: var(--c-brand-dark);
+  box-shadow: inset 0 1px 3px rgba(0, 0, 0, 0.1);
+  
+  &::before,
+  &::after {
+    content: '`';
+    color: var(--c-border);
+    font-size: 0.8em;
+    opacity: 0.6;
+  }
+}
+
+pre {
+  padding: 2rem;
+  margin: 2rem 0;
+  overflow-x: auto;
+  line-height: 1.5;
+  background: linear-gradient(135deg, #f8f6f0, #f5f2e8);
+  box-shadow: 
+    0 4px 12px rgba(0, 0, 0, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.8);
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    height: 3px;
+    background: linear-gradient(90deg, var(--c-brand), var(--c-border), var(--c-brand));
+    border-radius: 8px 8px 0 0;
+  }
+  
+  code {
+    padding: 0;
+    background: transparent;
+    border: none;
+    color: inherit;
+    box-shadow: none;
+    
+    &::before,
+    &::after {
+      display: none;
+    }
+  }
+}
+
+// 引用样式 - 古典书卷风格
+blockquote {
+  margin: 2.5rem 0;
+  padding: 2rem 2.5rem;
+  background: linear-gradient(135deg, #faf9f7, #f6f4f0);
+  border-left: 4px solid var(--c-brand);
+  border-radius: 0 12px 12px 0;
+  position: relative;
+  box-shadow: 
+    0 6px 20px rgba(0, 0, 0, 0.08),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  
+  &::before {
+    content: '"';
+    position: absolute;
+    top: -0.5rem;
+    left: 1rem;
+    font-size: 4rem;
+    color: var(--c-brand);
+    opacity: 0.3;
+    font-family: var(--font-family-heading);
+    line-height: 1;
+  }
+  
+  &::after {
+    content: '';
+    position: absolute;
+    top: 1rem;
+    right: 1.5rem;
+    width: 3rem;
+    height: 3rem;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 24 24' fill='%23c5a572' opacity='0.3'%3E%3Cpath d='M12 2C6.48 2 2 6.48 2 12s4.48 10 10 10 10-4.48 10-10S17.52 2 12 2zm-2 15l-5-5 1.41-1.41L10 14.17l7.59-7.59L19 8l-9 9z'/%3E%3C/svg%3E") no-repeat center;
+    background-size: contain;
+  }
+  
+  p {
+    margin: 0;
+    font-style: italic;
+    color: var(--c-text-light);
+    line-height: 1.8;
+    text-indent: 0;
+    
+    &:first-of-type::first-letter {
+      font-size: 2.5em;
+      color: var(--c-brand);
+      margin-right: 0.1em;
+    }
+  }
+  
+  footer {
+    margin-top: 1rem;
+    text-align: right;
+    font-size: 0.9rem;
+    color: var(--c-text-lighter);
+    
+    &::before {
+      content: '—— ';
+    }
+  }
+}
+
+// 表格样式 - 古典册页风格
+table {
+  width: 100%;
+  margin: 2rem 0;
+  border-collapse: separate;
+  border-spacing: 0;
+  background: linear-gradient(135deg, #faf9f7, #f6f4f0);
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 8px 24px rgba(0, 0, 0, 0.1);
+  
+  th, td {
+    padding: 1rem 1.5rem;
+    text-align: left;
+    border-bottom: 1px solid var(--c-border-light);
+    
+    &:not(:last-child) {
+      border-right: 1px solid var(--c-border-light);
+    }
+  }
+  
+  th {
+    background: linear-gradient(135deg, var(--c-brand-light), var(--c-brand));
+    color: white;
+    font-family: var(--font-family-heading);
+    font-weight: 600;
+    text-shadow: 0 1px 2px rgba(0, 0, 0, 0.2);
+    
+    &:first-child {
+      border-radius: 12px 0 0 0;
+    }
+    
+    &:last-child {
+      border-radius: 0 12px 0 0;
+    }
+  }
+  
+  tr:nth-child(even) {
+    background: rgba(255, 255, 255, 0.5);
+  }
+  
+  tr:hover {
+    background: rgba(196, 165, 114, 0.1);
+    transition: background 0.3s ease;
+  }
+  
+  tr:last-child {
+    td:first-child {
+      border-radius: 0 0 0 12px;
+    }
+    
+    td:last-child {
+      border-radius: 0 0 12px 0;
+    }
+  }
+}
+
+// 文学装饰元素 - 国风样式增强
+.literary-quote {
+  border-left: 6px solid var(--c-brand);
+  background: linear-gradient(90deg, rgba(196, 165, 114, 0.1), transparent);
+  padding: 1.5rem 2rem;
+  margin: 2rem 0;
+  border-radius: 0 12px 12px 0;
+  position: relative;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  
+  &::before {
+    content: '"';
+    position: absolute;
+    top: -0.5rem;
+    left: -0.3rem;
+    font-size: 3rem;
+    color: var(--c-brand);
+    opacity: 0.6;
+    font-family: var(--font-family-heading);
+    line-height: 1;
+  }
+  
+  &::after {
+    content: '"';
+    position: absolute;
+    bottom: -1rem;
+    right: 1rem;
+    font-size: 2rem;
+    color: var(--c-brand);
+    opacity: 0.4;
+    font-family: var(--font-family-heading);
+  }
+  
+  p {
+    margin: 0;
+    font-style: italic;
+    color: var(--c-text-light);
+    text-indent: 0;
+    line-height: 1.8;
+  }
+}
+
+.chapter-divider {
+  text-align: center;
+  margin: 4rem 0;
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 0;
+    right: 0;
+    height: 1px;
+    background: linear-gradient(to right, transparent, var(--c-border), transparent);
+    transform: translateY(-50%);
+  }
+  
+  &::after {
+    content: '❦ ❦ ❦';
+    background: var(--c-bg);
+    color: var(--c-brand);
+    font-size: 1.8rem;
+    letter-spacing: 1.5rem;
+    padding: 0 2rem;
+    position: relative;
+    z-index: 1;
+  }
+}
+
+.annotation {
+  font-size: 0.95rem;
+  color: var(--c-text-lighter);
+  background: linear-gradient(135deg, #faf9f7, #f8f6f0);
+  border: 1px solid var(--c-border-light);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 2rem 0;
+  position: relative;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.05);
+  
+  &::before {
+    content: '注';
+    position: absolute;
+    top: -0.7rem;
+    left: 1rem;
+    background: var(--c-brand);
+    color: white;
+    padding: 0.3rem 0.8rem;
+    border-radius: 4px;
+    font-size: 0.8rem;
+    font-weight: bold;
+  }
+}
+
+// 页面装饰元素
+.page-decoration {
+  position: relative;
+  
+  &::before,
+  &::after {
+    content: '';
+    position: absolute;
+    width: 100px;
+    height: 100px;
+    background: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'%3E%3Cpath d='M50 10 L60 40 L90 40 L68 58 L78 88 L50 70 L22 88 L32 58 L10 40 L40 40 Z' fill='%23c5a572' opacity='0.1'/%3E%3C/svg%3E") no-repeat center;
+    background-size: contain;
+    pointer-events: none;
+  }
+  
+  &::before {
+    top: 2rem;
+    left: -2rem;
+    transform: rotate(-15deg);
+  }
+  
+  &::after {
+    bottom: 2rem;
+    right: -2rem;
+    transform: rotate(15deg);
+  }
+}
+
+// 装饰性元素
+.ornament {
+  text-align: center;
+  margin: 2rem 0;
+  
+  &::before {
+    content: '◆ ◇ ◆';
+    color: var(--c-border);
+    font-size: 1.2rem;
+    letter-spacing: 0.5rem;
+  }
+}
+
+.verse {
+  text-align: center;
+  font-family: var(--font-family-heading);
+  line-height: 2;
+  margin: 2rem 0;
+  
+  .line {
+    display: block;
+    margin: 0.5rem 0;
+    
+    &:nth-child(odd) {
+      color: var(--c-brand);
+    }
+    
+    &:nth-child(even) {
+      color: var(--c-text-light);
+    }
+  }
+}
+
+// 按钮样式 - 古典风格
+.btn-classical {
+  display: inline-block;
+  padding: 0.8rem 2rem;
+  background: linear-gradient(135deg, var(--c-brand-light), var(--c-brand));
+  color: white;
+  border: none;
+  border-radius: 25px;
+  font-family: var(--font-family-heading);
+  font-weight: 600;
+  text-decoration: none;
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+  box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2);
+  position: relative;
+  overflow: hidden;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.3), transparent);
+    transition: left 0.5s ease;
+  }
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 20px rgba(0, 0, 0, 0.3);
+    
+    &::before {
+      left: 100%;
+    }
+  }
+  
+  &:active {
+    transform: translateY(0);
+  }
+}
+
+// 卡片样式 - 古典风格
+.card-classical {
+  background: linear-gradient(135deg, #faf9f7, #f6f4f0);
+  border: 2px solid var(--c-border);
+  border-radius: 16px;
+  padding: 2rem;
+  margin: 1.5rem 0;
+  box-shadow: 
+    0 8px 32px rgba(0, 0, 0, 0.1),
+    inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: 
+      0 12px 40px rgba(0, 0, 0, 0.15),
+      inset 0 1px 0 rgba(255, 255, 255, 0.9);
+  }
+  
+  .card-header {
+    border-bottom: 1px solid var(--c-border-light);
+    padding-bottom: 1rem;
+    margin-bottom: 1rem;
+    
+    h3 {
+      margin: 0;
+      color: var(--c-brand);
+      font-family: var(--font-family-heading);
+    }
+  }
+  
+  .card-body {
+    line-height: 1.8;
+  }
+}
+
+// 标签样式 - 古典风格
+.tag-classical {
+  display: inline-block;
+  padding: 0.3rem 0.8rem;
+  background: linear-gradient(135deg, var(--c-brand-light), var(--c-brand));
+  color: white;
+  border-radius: 15px;
+  font-size: 0.8rem;
+  font-weight: 500;
+  margin: 0.2rem;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.3);
+  }
+}
+
+// 页面装饰
+.page-decoration {
+  position: fixed;
+  pointer-events: none;
+  z-index: -1;
+  opacity: 0.1;
+  
+  &.top-left {
+    top: 2rem;
+    left: 2rem;
+    font-size: 4rem;
+    color: var(--c-brand);
+  }
+  
+  &.bottom-right {
+    bottom: 2rem;
+    right: 2rem;
+    font-size: 4rem;
+    color: var(--c-brand);
+  }
+}
+
+// 动画效果
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-10px); }
+}
+
+.floating {
+  animation: float 3s ease-in-out infinite;
+}
+
+// 分页样式 - 国风增强
+.pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: 3rem 0;
+  gap: 1rem;
+  
+  .page-link {
+    padding: 0.8rem 1.2rem;
+    background: linear-gradient(135deg, var(--c-bg-light), var(--c-bg));
+    border: 2px solid var(--c-border);
+    border-radius: 8px;
+    color: var(--c-text);
+    text-decoration: none;
+    transition: all 0.3s ease;
+    font-family: var(--font-family-heading);
+    
+    &:hover {
+      background: linear-gradient(135deg, var(--c-brand-light), var(--c-brand));
+      color: white;
+      transform: translateY(-2px);
+      box-shadow: 0 4px 12px rgba(0, 0, 0, 0.2);
+    }
+    
+    &.active {
+      background: var(--c-brand);
+      color: white;
+      box-shadow: 0 2px 8px rgba(0, 0, 0, 0.2);
+    }
+  }
+}
+
+// 自定义滚动条
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: var(--c-bg-dark);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--c-brand);
+  border-radius: 4px;
+  
+  &:hover {
+    background: var(--c-brand-dark);
+  }
+}
+
+// 文本选择样式
+::selection {
+  background: rgba(139, 69, 19, 0.2);
+  color: var(--c-brand-dark);
+}
+
+// 特殊装饰元素
+.ornament {
+  text-align: center;
+  color: var(--c-border);
+  font-size: 1.5rem;
+  margin: 2rem 0;
+  letter-spacing: 1rem;
+  
+  &::before {
+    content: '❦ ❦ ❦';
+  }
+}
+
+// 诗词专用样式增强
+.verse {
+  font-family: var(--font-family-heading);
+  text-align: center;
+  line-height: 2;
+  margin: 1rem 0;
+  color: var(--c-brand-dark);
+}
+
+.verse-title {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: var(--c-brand);
+  text-align: center;
+  margin: 2rem 0 1rem 0;
+  
+  &::before,
+  &::after {
+    content: '❦';
+    color: var(--c-border);
+    margin: 0 1rem;
+  }
+}
+
+.verse-author {
+  text-align: right;
+  font-style: italic;
+  color: var(--c-text-light);
+  margin-top: 1rem;
+  
+  &::before {
+    content: '—— ';
+  }
+}
+
+// 古典按钮样式
+.btn-classical {
+  background: linear-gradient(135deg, var(--c-brand) 0%, var(--c-brand-light) 100%);
+  color: white;
+  border: 2px solid var(--c-border);
+  border-radius: 6px;
+  padding: 0.75rem 1.5rem;
+  font-family: var(--font-family-heading);
+  font-weight: 500;
+  cursor: pointer;
+  transition: all 0.3s ease;
+  text-decoration: none;
+  display: inline-block;
+  
+  &:hover {
+    transform: translateY(-2px);
+    box-shadow: var(--shadow-2);
+    background: linear-gradient(135deg, var(--c-brand-dark) 0%, var(--c-brand) 100%);
+  }
+  
+  &:active {
+    transform: translateY(0);
+  }
+}
+
+// 古典卡片样式
+.card-classical {
+  background: var(--c-bg);
+  border: 2px solid var(--c-border);
+  border-radius: 8px;
+  padding: 1.5rem;
+  margin: 1rem 0;
+  box-shadow: var(--shadow-1);
+  transition: all 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-4px);
+    box-shadow: var(--shadow-2);
+  }
+  
+  .card-title {
+    font-family: var(--font-family-heading);
+    color: var(--c-brand);
+    font-size: 1.2rem;
+    font-weight: 600;
+    margin-bottom: 1rem;
+    border-bottom: 1px solid var(--c-border);
+    padding-bottom: 0.5rem;
+  }
+}
+
+// 古典标签样式
+.tag-classical {
+  display: inline-block;
+  background: var(--c-bg-light);
+  color: var(--c-brand);
+  border: 1px solid var(--c-border);
+  border-radius: 4px;
+  padding: 0.25rem 0.75rem;
+  font-size: 0.85rem;
+  margin: 0.25rem;
+  transition: all 0.3s ease;
+  
+  &:hover {
+    background: var(--c-brand);
+    color: white;
+  }
+}
+
+// 响应式设计 - 国风适配
+@media (max-width: 768px) {
+  .navbar {
+    padding: 0.5rem 1rem;
+    
+    .navbar-brand {
+      font-size: 1.3rem;
+    }
+    
+    .navbar-nav {
+      flex-direction: column;
+      gap: 0.5rem;
+    }
+  }
+  
+  .sidebar {
+    width: 100%;
+    position: static;
+    margin-bottom: 2rem;
+    border-radius: 12px;
+  }
+  
+  .main-content {
+    margin-left: 0;
+    padding: 1rem;
+    border-radius: 12px;
+  }
+  
+  .poem {
+    padding: 2rem 1.5rem;
+    margin: 2rem 0;
+  }
+  
+  .literary-quote {
+    padding: 1rem 1.5rem;
+    margin: 1.5rem 0;
+  }
+  
+  .chapter-divider {
+    margin: 2rem 0;
+    
+    &::after {
+      font-size: 1.2rem;
+      letter-spacing: 0.8rem;
+    }
+  }
+  
+  .pagination {
+    flex-wrap: wrap;
+    gap: 0.5rem;
+    
+    .page-link {
+      padding: 0.6rem 1rem;
+      font-size: 0.9rem;
+    }
+  }
+  
+  .btn-classical {
+    padding: 0.6rem 1.5rem;
+    font-size: 0.9rem;
+  }
+  
+  .card-classical {
+    padding: 1.5rem;
+    margin: 1rem 0;
+  }
+  
+  h1 {
+    font-size: 2rem;
+  }
+  
+  h2 {
+    font-size: 1.6rem;
+  }
+  
+  h3 {
+    font-size: 1.3rem;
+  }
+  
+  p {
+    font-size: 0.95rem;
+    line-height: 1.7;
+  }
+}
+
+@media (max-width: 480px) {
+  .main-content {
+    padding: 0.8rem;
+  }
+  
+  .poem {
+    padding: 1.5rem 1rem;
+    
+    p {
+      font-size: 1rem;
+      line-height: 2;
+    }
+  }
+  
+  .literary-quote {
+    padding: 1rem;
+    
+    &::before {
+      font-size: 2rem;
+    }
+  }
+  
+  .chapter-divider::after {
+    font-size: 1rem;
+    letter-spacing: 0.5rem;
+  }
+  
+  .btn-classical {
+    padding: 0.5rem 1.2rem;
+    font-size: 0.8rem;
+  }
+  
+  .tag-classical {
+    padding: 0.2rem 0.6rem;
+    font-size: 0.7rem;
+  }
+  
+  h1 {
+    font-size: 1.8rem;
+  }
+  
+  h2 {
+    font-size: 1.4rem;
+  }
+  
+  h3 {
+    font-size: 1.2rem;
+  }
+}

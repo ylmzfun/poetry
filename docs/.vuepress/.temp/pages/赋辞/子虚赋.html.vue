@@ -1,0 +1,94 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@163.com
+ * @Date: 2025-10-04 07:38:51
+ * @LastEditors: ylmzfun ylmzfun@163.com
+ * @LastEditTime: 2025-10-04 07:38:51
+ * @FilePath: /Users/ylmzfun/Documents/study/note/poetry/赋辞/子虚赋.md
+ * @Description: 古文辞章汇编 - 传承中华文化经典
+-->
+<h1 id="子虚赋" tabindex="-1"><a class="header-anchor" href="#子虚赋"><span>子虚赋</span></a></h1>
+<p><strong>作者：</strong> 司马相如<br>
+<strong>体裁：</strong> 赋</p>
+<h2 id="原文" tabindex="-1"><a class="header-anchor" href="#原文"><span>原文</span></a></h2>
+<p>楚使子虚使于齐，王悉发车骑，与使者出畋。畋罢，子虚过姹乌有先生，亡是公存焉。坐定，乌有先生问曰：&quot;今日畋，乐乎？&quot;子虚曰：&quot;乐。&quot;&quot;获多乎？&quot;曰：&quot;少。&quot;&quot;然则何乐？&quot;对曰：&quot;仆乐齐王之欲夸仆以车骑之众，而仆对以云梦之事也。&quot;</p>
+<p>曰：&quot;可得闻乎？&quot;</p>
+<p>子虚曰：&quot;可。齐王车千乘，选徒万骑，畋于海滨。列卒满泽，罘罝弥山，掩兔辚鹿，射麋脚麟。鸟不及飞，兽不得过。青云为旗，白霓为缳。前驱苍梧，后属彭蠡。弓不虚发，中必决眦。于是楚王乃弭节徘徊，翱翔容与，览乎阴林，观乎荒流，遵乎大路，行乎兰皋，径乎桂椒，过乎椒丘，揽茝蕙，搴芳若，芳草鲜美，落英缤纷。&quot;</p>
+<p>乌有先生曰：&quot;是何言之过也！足下不远千里，来贶齐国，齐王悉境内之士，备车骑之众，与使者出畋，乃欲以夸楚国之威，而彰齐国之令德也。且齐东陼巨海，南有琅邪，观乎成山，射乎之罘，浮勃澥，游孟诸，邪与肃慎，杂荤粥，其东则有蓬莱、方丈、瀛洲，仙人所居，奇花异草，若木在焉。其西则有华不注，其南则有历下，其北则有渤海。&quot;</p>
+<p>亡是公听然而笑曰：&quot;楚则失矣，而齐亦未为得也。夫天下莫大于秦，而秦莫大于雍。雍有汧、渭之会，泾、渭之交，终南、太华之高，汧、陇之阻，其阳则崇山隐天，幽谷万仞；其阴则冰厚三尺，雪深丈余。带以洪河，阻以大山。&quot;</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<h3 id="注释-1" tabindex="-1"><a class="header-anchor" href="#注释-1"><span>注释</span></a></h3>
+<p><strong>子虚</strong>：虚构的人名，意为&quot;虚无&quot;。</p>
+<p><strong>乌有先生</strong>：虚构的人名，意为&quot;没有&quot;。</p>
+<p><strong>亡是公</strong>：虚构的人名，意为&quot;无此人&quot;。</p>
+<p><strong>畋</strong>：打猎。</p>
+<p><strong>罘罝</strong>：捕鸟兽的网。</p>
+<p><strong>弥山</strong>：遍布山野。</p>
+<p><strong>辚鹿</strong>：追逐鹿群。</p>
+<p><strong>麋</strong>：一种鹿。</p>
+<p><strong>麟</strong>：麒麟，传说中的神兽。</p>
+<p><strong>决眦</strong>：射中眼睛。</p>
+<p><strong>弭节</strong>：停车。</p>
+<p><strong>容与</strong>：从容自得的样子。</p>
+<p><strong>阴林</strong>：茂密的树林。</p>
+<p><strong>荒流</strong>：荒野中的河流。</p>
+<p><strong>兰皋</strong>：长着兰草的水边高地。</p>
+<p><strong>茝蕙</strong>：香草名。</p>
+<p><strong>芳若</strong>：香草名。</p>
+<p><strong>贶</strong>：赠送，这里指光临。</p>
+<p><strong>陼</strong>：水中高地。</p>
+<p><strong>琅邪</strong>：山名，在今山东。</p>
+<p><strong>成山</strong>：山名，在今山东。</p>
+<p><strong>之罘</strong>：山名，在今山东。</p>
+<p><strong>勃澥</strong>：海名。</p>
+<p><strong>孟诸</strong>：泽名。</p>
+<p><strong>肃慎</strong>：古代东北民族。</p>
+<p><strong>荤粥</strong>：古代北方民族。</p>
+<p><strong>华不注</strong>：山名，在今山东济南。</p>
+<p><strong>历下</strong>：地名，在今山东济南。</p>
+<p><strong>汧、渭</strong>：河名。</p>
+<p><strong>泾、渭</strong>：河名。</p>
+<p><strong>终南、太华</strong>：山名。</p>
+<p><strong>汧、陇</strong>：山名。</p>
+<h3 id="译文" tabindex="-1"><a class="header-anchor" href="#译文"><span>译文</span></a></h3>
+<p>楚国派子虚出使齐国，齐王调动全部车马，与使者一起出去打猎。打猎结束后，子虚拜访乌有先生，亡是公也在那里。坐定后，乌有先生问道：&quot;今天打猎，快乐吗？&quot;子虚说：&quot;快乐。&quot;&quot;收获多吗？&quot;说：&quot;少。&quot;&quot;那么为什么快乐呢？&quot;回答说：&quot;我高兴的是齐王想用车马众多来向我夸耀，而我用云梦的事情来回应他。&quot;</p>
+<p>说：&quot;可以听听吗？&quot;</p>
+<p>子虚说：&quot;可以。齐王有车千辆，精选的骑兵万人，在海边打猎。士兵布满沼泽，捕鸟兽的网遍布山野，追捕兔子，追逐鹿群，射杀麋鹿和麒麟。鸟来不及飞，兽不能逃过。青云作为旗帜，白虹作为旗绳。前面有苍梧山，后面连着彭蠡湖。弓不虚发，射中必定穿透眼睛。于是楚王就停车徘徊，翱翔从容，观览茂密的树林，观看荒野的河流，沿着大路行走，经过长着兰草的水边高地，穿过桂椒丛，越过椒丘，采摘茝蕙，拔取芳若，芳草鲜美，落花缤纷。&quot;</p>
+<p>乌有先生说：&quot;这话说得太过分了！您不远千里，来到齐国，齐王调动境内的士兵，准备车马众多，与使者一起出猎，是想以此夸耀楚国的威势，而彰显齐国的美德。况且齐国东临大海，南有琅邪山，可以观看成山，在之罘山射猎，在勃澥海上漂游，在孟诸泽中游览，与肃慎、荤粥等民族杂居。它的东面有蓬莱、方丈、瀛洲，是仙人居住的地方，有奇花异草，若木生长在那里。它的西面有华不注山，南面有历下，北面有渤海。&quot;</p>
+<p>亡是公听了笑着说：&quot;楚国说错了，而齐国也未必对。天下没有比秦国更大的，而秦国没有比雍州更大的。雍州有汧水、渭水的汇合，泾水、渭水的交汇，终南山、太华山的高峻，汧山、陇山的险阻。它的南面有高山遮天，深谷万仞；它的北面则冰厚三尺，雪深丈余。以黄河为带，以大山为阻。&quot;</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<h3 id="文学特色" tabindex="-1"><a class="header-anchor" href="#文学特色"><span>文学特色</span></a></h3>
+<ol>
+<li><strong>虚构人物</strong>：三个人物名字都暗示虚无，体现了寓言性质</li>
+<li><strong>夸张手法</strong>：大量运用夸张描写，展现宏大气势</li>
+<li><strong>铺陈排比</strong>：运用铺陈手法，层层递进，气势磅礴</li>
+<li><strong>对比论辩</strong>：通过三人对话，形成层层对比和论辩</li>
+</ol>
+<h3 id="思想内容" tabindex="-1"><a class="header-anchor" href="#思想内容"><span>思想内容</span></a></h3>
+<ol>
+<li><strong>政治寓意</strong>：通过虚构对话，实际上是在为汉武帝歌功颂德</li>
+<li><strong>地理博览</strong>：展现了作者丰富的地理知识和博学</li>
+<li><strong>文化自信</strong>：体现了汉代文人的文化自信和大国气象</li>
+<li><strong>哲学思辨</strong>：通过虚实对比，体现了庄子哲学的影响</li>
+</ol>
+<h3 id="艺术成就" tabindex="-1"><a class="header-anchor" href="#艺术成就"><span>艺术成就</span></a></h3>
+<ol>
+<li><strong>结构巧妙</strong>：采用对话体，层层推进，结构严谨</li>
+<li><strong>语言华丽</strong>：词藻华美，音韵和谐，具有很强的艺术感染力</li>
+<li><strong>想象丰富</strong>：想象奇特，描写生动，富有浪漫主义色彩</li>
+<li><strong>影响深远</strong>：开创了汉赋的先河，影响了后世赋体文学</li>
+</ol>
+<h3 id="历史地位" tabindex="-1"><a class="header-anchor" href="#历史地位"><span>历史地位</span></a></h3>
+<p>《子虚赋》是司马相如的代表作，也是汉赋的开山之作。它确立了汉赋的基本特征和艺术风格，对后世赋体文学产生了深远影响。作品以其宏大的气势、华丽的辞藻和深刻的思想内容，在中国文学史上占有重要地位。</p>
+<h3 id="与《上林赋》的关系" tabindex="-1"><a class="header-anchor" href="#与《上林赋》的关系"><span>与《上林赋》的关系</span></a></h3>
+<p>《子虚赋》与《上林赋》原为一篇，后来分为两篇。《子虚赋》主要写楚、齐两国的夸耀，《上林赋》则写天子上林苑的壮丽，两篇相互呼应，形成完整的艺术整体。</p>
+<h2 id="版本索引" tabindex="-1"><a class="header-anchor" href="#版本索引"><span>版本索引</span></a></h2>
+<ul>
+<li>《史记·司马相如列传》</li>
+<li>《文选》</li>
+<li>《汉书·司马相如传》</li>
+<li>《历代赋选》</li>
+</ul>
+<h2 id="备注" tabindex="-1"><a class="header-anchor" href="#备注"><span>备注</span></a></h2>
+</div></template>
+
+

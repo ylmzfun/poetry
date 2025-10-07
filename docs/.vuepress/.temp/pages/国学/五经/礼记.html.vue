@@ -1,0 +1,178 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@foxmail.com
+ * @Date: 2024-10-04 10:00:00
+ * @LastEditors: ylmzfun ylmzfun@foxmail.com
+ * @LastEditTime: 2024-10-04 10:00:00
+ * @FilePath: /Users/ylmzfun/Documents/study/note/poetry/国学/五经/礼记.md
+ * @Description: 《礼记》- 儒家礼学理论的集大成之作
+-->
+<h1 id="礼记" tabindex="-1"><a class="header-anchor" href="#礼记"><span>礼记</span></a></h1>
+<h2 id="简介" tabindex="-1"><a class="header-anchor" href="#简介"><span>简介</span></a></h2>
+<p>《礼记》是儒家经典之一，是秦汉以前各种礼仪论著的选集，共49篇。该书集中体现了先秦儒家的礼学思想，内容涉及政治、教育、哲学、宗教等各个方面。《礼记》与《周礼》、《仪礼》合称&quot;三礼&quot;，是研究中国古代社会政治、思想文化的重要典籍，被列为五经之一。</p>
+<h2 id="推荐版本" tabindex="-1"><a class="header-anchor" href="#推荐版本"><span>推荐版本</span></a></h2>
+<ul>
+<li><strong>郑玄注</strong>：东汉郑玄注释，最权威的古注本</li>
+<li><strong>孔颖达疏</strong>：《礼记正义》，唐代官方注疏</li>
+<li><strong>现代注释</strong>：杨天宇《礼记译注》，现代学者的研究成果</li>
+</ul>
+<h2 id="主要篇目" tabindex="-1"><a class="header-anchor" href="#主要篇目"><span>主要篇目</span></a></h2>
+<h3 id="重要篇章" tabindex="-1"><a class="header-anchor" href="#重要篇章"><span>重要篇章</span></a></h3>
+<ul>
+<li><strong>曲礼上、下</strong>：日常礼仪规范</li>
+<li><strong>檀弓上、下</strong>：丧礼相关内容</li>
+<li><strong>王制</strong>：政治制度</li>
+<li><strong>月令</strong>：按月记述政令</li>
+<li><strong>文王世子</strong>：太子教育</li>
+<li><strong>礼运</strong>：礼的起源和发展</li>
+<li><strong>礼器</strong>：礼器的意义</li>
+<li><strong>郊特牲</strong>：郊祭礼仪</li>
+<li><strong>内则</strong>：家庭伦理</li>
+<li><strong>玉藻</strong>：君子仪表</li>
+<li><strong>明堂位</strong>：明堂制度</li>
+<li><strong>丧服小记</strong>：丧服制度</li>
+<li><strong>大传</strong>：宗法血缘关系</li>
+<li><strong>少仪</strong>：基本礼仪</li>
+<li><strong>学记</strong>：教育理论</li>
+<li><strong>乐记</strong>：音乐理论</li>
+<li><strong>杂记上、下</strong>：各种礼制</li>
+<li><strong>丧大记</strong>：丧礼详述</li>
+<li><strong>祭法</strong>：祭祀制度</li>
+<li><strong>祭义</strong>：祭祀意义</li>
+<li><strong>祭统</strong>：祭祀统论</li>
+<li><strong>经解</strong>：六经的作用</li>
+<li><strong>哀公问</strong>：哀公问政</li>
+<li><strong>仲尼燕居</strong>：孔子日常言行</li>
+<li><strong>孔子闲居</strong>：孔子闲谈</li>
+<li><strong>坊记</strong>：防范措施</li>
+<li><strong>中庸</strong>：中庸之道</li>
+<li><strong>表记</strong>：品德修养</li>
+<li><strong>缁衣</strong>：君子品格</li>
+<li><strong>奔丧</strong>：奔丧礼仪</li>
+<li><strong>问丧</strong>：丧礼问答</li>
+<li><strong>服问</strong>：服制问答</li>
+<li><strong>间传</strong>：丧期制度</li>
+<li><strong>三年问</strong>：三年丧期的意义</li>
+<li><strong>深衣</strong>：深衣制度</li>
+<li><strong>投壶</strong>：投壶游戏礼仪</li>
+<li><strong>儒行</strong>：儒者品行</li>
+<li><strong>大学</strong>：大学之道</li>
+<li><strong>冠义</strong>：冠礼意义</li>
+<li><strong>昏义</strong>：婚礼意义</li>
+<li><strong>乡饮酒义</strong>：乡饮酒礼意义</li>
+<li><strong>射义</strong>：射礼意义</li>
+<li><strong>燕义</strong>：燕礼意义</li>
+<li><strong>聘义</strong>：聘礼意义</li>
+</ul>
+<h2 id="经典篇目选录" tabindex="-1"><a class="header-anchor" href="#经典篇目选录"><span>经典篇目选录</span></a></h2>
+<h3 id="大学-节选" tabindex="-1"><a class="header-anchor" href="#大学-节选"><span>大学（节选）</span></a></h3>
+<p>大学之道，在明明德，在亲民，在止于至善。知止而后有定，定而后能静，静而后能安，安而后能虑，虑而后能得。物有本末，事有终始，知所先后，则近道矣。</p>
+<p>古之欲明明德于天下者，先治其国；欲治其国者，先齐其家；欲齐其家者，先修其身；欲修其身者，先正其心；欲正其心者，先诚其意；欲诚其意者，先致其知，致知在格物。物格而后知至，知至而后意诚，意诚而后心正，心正而后身修，身修而后家齐，家齐而后国治，国治而后天下平。</p>
+<h3 id="中庸-节选" tabindex="-1"><a class="header-anchor" href="#中庸-节选"><span>中庸（节选）</span></a></h3>
+<p>天命之谓性，率性之谓道，修道之谓教。道也者，不可须臾离也，可离非道也。是故君子戒慎乎其所不睹，恐惧乎其所不闻。莫见乎隐，莫显乎微，故君子慎其独也。</p>
+<p>喜怒哀乐之未发，谓之中；发而皆中节，谓之和。中也者，天下之大本也；和也者，天下之达道也。致中和，天地位焉，万物育焉。</p>
+<h3 id="学记-节选" tabindex="-1"><a class="header-anchor" href="#学记-节选"><span>学记（节选）</span></a></h3>
+<p>玉不琢，不成器；人不学，不知道。是故古之王者建国君民，教学为先。《兑命》曰：&quot;念终始典于学。&quot;其此之谓乎！</p>
+<p>虽有嘉肴，弗食，不知其旨也；虽有至道，弗学，不知其善也。是故学然后知不足，教然后知困。知不足，然后能自反也；知困，然后能自强也。故曰：教学相长也。《兑命》曰：&quot;学学半。&quot;其此之谓乎！</p>
+<h3 id="礼运-节选" tabindex="-1"><a class="header-anchor" href="#礼运-节选"><span>礼运（节选）</span></a></h3>
+<p>昔者仲尼与于蜡宾，事毕，出游于观，之上，喟然而叹。仲尼之叹，盖叹鲁也。言偃在侧，曰：&quot;君子何叹？&quot;孔子曰：&quot;大道之行也，与三代之英，丘未之逮也，而有志焉。&quot;</p>
+<p>大道之行也，天下为公，选贤与能，讲信修睦。故人不独亲其亲，不独子其子，使老有所终，壮有所用，幼有所长，矜、寡、孤、独、废疾者皆有所养，男有分，女有归。货恶其弃于地也，不必藏于己；力恶其不出于身也，不必为己。是故谋闭而不兴，盗窃乱贼而不作，故外户而不闭，是谓大同。</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<h3 id="大学注释" tabindex="-1"><a class="header-anchor" href="#大学注释"><span>大学注释</span></a></h3>
+<ul>
+<li><strong>明明德</strong>：彰显光明的品德</li>
+<li><strong>亲民</strong>：亲近民众，使民众更新</li>
+<li><strong>至善</strong>：最高的善</li>
+<li><strong>格物</strong>：推究事物的道理</li>
+<li><strong>致知</strong>：获得知识</li>
+<li><strong>诚意</strong>：使意念真诚</li>
+<li><strong>正心</strong>：端正心思</li>
+<li><strong>修身</strong>：修养自身</li>
+<li><strong>齐家</strong>：整治家庭</li>
+<li><strong>治国</strong>：治理国家</li>
+<li><strong>平天下</strong>：使天下太平</li>
+</ul>
+<h3 id="中庸注释" tabindex="-1"><a class="header-anchor" href="#中庸注释"><span>中庸注释</span></a></h3>
+<ul>
+<li><strong>天命</strong>：天赋予的本性</li>
+<li><strong>率性</strong>：顺应本性</li>
+<li><strong>修道</strong>：修养道德</li>
+<li><strong>慎独</strong>：在独处时也要谨慎</li>
+<li><strong>中</strong>：情感未发时的状态</li>
+<li><strong>和</strong>：情感发而中节的状态</li>
+</ul>
+<h3 id="学记注释" tabindex="-1"><a class="header-anchor" href="#学记注释"><span>学记注释</span></a></h3>
+<ul>
+<li><strong>嘉肴</strong>：美味的食物</li>
+<li><strong>至道</strong>：最高的道理</li>
+<li><strong>教学相长</strong>：教和学相互促进</li>
+<li><strong>学学半</strong>：教别人等于学了一半</li>
+</ul>
+<h3 id="礼运注释" tabindex="-1"><a class="header-anchor" href="#礼运注释"><span>礼运注释</span></a></h3>
+<ul>
+<li><strong>蜡宾</strong>：年终祭祀的宾客</li>
+<li><strong>大道</strong>：最高的道理</li>
+<li><strong>三代之英</strong>：夏、商、周三代的英才</li>
+<li><strong>天下为公</strong>：天下是公共的</li>
+<li><strong>大同</strong>：理想的社会状态</li>
+</ul>
+<h2 id="译文" tabindex="-1"><a class="header-anchor" href="#译文"><span>译文</span></a></h2>
+<h3 id="大学译文" tabindex="-1"><a class="header-anchor" href="#大学译文"><span>大学译文</span></a></h3>
+<p>大学的宗旨，在于彰显光明的品德，在于亲近民众，在于达到最高的善。知道应该达到的目标，然后意志才能坚定；意志坚定，然后心情才能平静；心情平静，然后精神才能安定；精神安定，然后思虑才能周详；思虑周详，然后才能有所收获。事物有根本有枝末，事情有终结有开始，知道了先后次序，就接近道了。</p>
+<p>古代想要在天下彰显光明品德的人，先要治理好自己的国家；想要治理好国家的人，先要整治好自己的家庭；想要整治好家庭的人，先要修养自身的品德；想要修养自身品德的人，先要端正自己的心思；想要端正心思的人，先要使自己的意念真诚；想要使意念真诚的人，先要获得知识，获得知识的途径在于推究事物的道理。</p>
+<h3 id="中庸译文" tabindex="-1"><a class="header-anchor" href="#中庸译文"><span>中庸译文</span></a></h3>
+<p>天赋予人的叫做性，顺应本性叫做道，修养道德叫做教。道这个东西，一刻也不能离开，能够离开的就不是道了。所以君子在别人看不见的地方也要谨慎，在别人听不到的地方也要警惕。最隐蔽的地方最容易显露，最细微的地方最容易显现，所以君子在独处的时候要谨慎。</p>
+<p>喜怒哀乐没有表现出来的时候，叫做中；表现出来都符合节度，叫做和。中，是天下的根本；和，是天下共同遵循的道理。达到中和的境界，天地就各得其所，万物就能生长发育了。</p>
+<h3 id="礼运译文" tabindex="-1"><a class="header-anchor" href="#礼运译文"><span>礼运译文</span></a></h3>
+<p>从前孔子参加蜡祭的宴会，祭祀结束后，出来游览，在台上，感慨地叹息。孔子的叹息，大概是为鲁国而叹息。言偃在旁边，说：&quot;老师为什么叹息？&quot;孔子说：&quot;大道实行的时代，和夏、商、周三代的英才，我都没有赶上，但是心里向往着。&quot;</p>
+<p>大道实行的时候，天下是公共的，选拔贤能的人，讲求诚信，培养和睦。所以人们不只是亲爱自己的父母，不只是疼爱自己的子女，要使老年人能够善终，中年人能够为社会效力，幼童能够顺利成长，鳏夫、寡妇、孤儿、独身、残疾人都能得到供养，男子有职分，女子有归宿。对于财货，厌恶把它扔在地上的行为，却不一定要自己私藏；厌恶那种在共同劳动中不肯尽力的行为，总要不为私利而劳动。这样一来，奸邪之谋就不会发生，盗窃、造反和害人的事情就不会产生，家家户户都不用关大门了，这叫做大同世界。</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<h3 id="思想价值" tabindex="-1"><a class="header-anchor" href="#思想价值"><span>思想价值</span></a></h3>
+<p>《礼记》作为儒家礼学的集大成之作，具有重要的思想价值：</p>
+<ol>
+<li>
+<p><strong>政治思想</strong>：提出了&quot;大同&quot;社会的理想，体现了儒家的政治理想和社会理想。</p>
+</li>
+<li>
+<p><strong>教育思想</strong>：《学记》是世界上最早的教育学专著，提出了许多重要的教育理论。</p>
+</li>
+<li>
+<p><strong>哲学思想</strong>：《中庸》阐述了中庸之道，成为中国哲学的重要组成部分。</p>
+</li>
+<li>
+<p><strong>伦理思想</strong>：强调修身齐家治国平天下的道德修养体系。</p>
+</li>
+</ol>
+<h3 id="文化意义" tabindex="-1"><a class="header-anchor" href="#文化意义"><span>文化意义</span></a></h3>
+<ol>
+<li>
+<p><strong>礼制文化</strong>：系统阐述了中国古代的礼制文化，对后世产生了深远影响。</p>
+</li>
+<li>
+<p><strong>社会规范</strong>：为古代社会提供了行为规范和道德准则。</p>
+</li>
+<li>
+<p><strong>文化传承</strong>：保存了大量古代文化资料，是研究中国古代文化的重要文献。</p>
+</li>
+<li>
+<p><strong>思想启蒙</strong>：其中的许多思想至今仍有启发意义。</p>
+</li>
+</ol>
+<h3 id="文学特色" tabindex="-1"><a class="header-anchor" href="#文学特色"><span>文学特色</span></a></h3>
+<ol>
+<li>
+<p><strong>文体多样</strong>：包含了论说、记叙、对话等多种文体。</p>
+</li>
+<li>
+<p><strong>语言精练</strong>：用词准确，表达简洁明了。</p>
+</li>
+<li>
+<p><strong>逻辑严密</strong>：论证有力，条理清晰。</p>
+</li>
+<li>
+<p><strong>富有哲理</strong>：许多篇章富含深刻的哲理思考。</p>
+</li>
+</ol>
+<p>《礼记》不仅是儒家经典，更是中华文化的重要组成部分，其思想内容对中国传统文化的形成和发展产生了深远影响。</p>
+</div></template>
+
+

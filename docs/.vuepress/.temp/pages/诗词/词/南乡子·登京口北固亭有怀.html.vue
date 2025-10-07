@@ -1,0 +1,96 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@163.com
+ * @Date: 2025-10-04 07:38:51
+ * @LastEditors: ylmzfun ylmzfun@163.com
+ * @LastEditTime: 2025-10-04 07:38:51
+ * @FilePath: /Users/ylmzfun/Documents/study/note/poetry/诗词/词/南乡子·登京口北固亭有怀.md
+ * @Description: 古文辞章汇编 - 传承中华文化经典
+-->
+<h1 id="南乡子·登京口北固亭有怀" tabindex="-1"><a class="header-anchor" href="#南乡子·登京口北固亭有怀"><span>南乡子·登京口北固亭有怀</span></a></h1>
+<p>作者：辛弃疾（南宋）
+体裁：词</p>
+<p>导言</p>
+<ul>
+<li>登临怀古与家国之忧交织，典故繁富。</li>
+</ul>
+<p>底本与版本</p>
+<ul>
+<li>推荐检索：中华书局《辛弃疾词集》点校本；旁证《全宋词》。</li>
+</ul>
+<h2 id="原文" tabindex="-1"><a class="header-anchor" href="#原文"><span>原文</span></a></h2>
+<p><strong>南乡子·登京口北固亭有怀</strong></p>
+<p>何处望神州？满眼风光北固楼。千古兴亡多少事？悠悠。不尽长江滚滚流。</p>
+<p>年少万兜鍪，坐断东南战未休。天下英雄谁敌手？曹刘。生子当如孙仲谋。</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<ul>
+<li><strong>神州</strong>：指中原地区，这里泛指祖国大地。</li>
+<li><strong>北固楼</strong>：即北固亭，在镇江北固山上。</li>
+<li><strong>悠悠</strong>：久远的样子，这里指时间的漫长。</li>
+<li><strong>万兜鍪</strong>：兜鍪是古代的头盔，万兜鍪指千军万马。</li>
+<li><strong>坐断东南</strong>：占据、控制东南地区。</li>
+<li><strong>曹刘</strong>：指曹操和刘备。</li>
+<li><strong>生子当如孙仲谋</strong>：曹操的话，赞美孙权的才能。</li>
+</ul>
+<h2 id="译文" tabindex="-1"><a class="header-anchor" href="#译文"><span>译文</span></a></h2>
+<p>何处可以眺望神州大地？满眼都是北固楼的美好风光。千古以来有多少兴亡大事？悠悠岁月，只有那不尽的长江水滚滚东流。</p>
+<p>年少时就统领千军万马，稳坐东南，征战不休。天下英雄谁能与他匹敌？只有曹操和刘备。生儿子就应当像孙仲谋这样。</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<p>《南乡子·登京口北固亭有怀》是辛弃疾的另一首怀古名作，与《永遇乐》同为登北固亭所作。</p>
+<p><strong>创作背景：</strong>
+此词约作于1205年，辛弃疾任镇江知府期间。当时南宋朝廷正准备北伐，词人登临北固亭，怀古伤今，既有对古代英雄的赞美，也有对现实的忧虑。</p>
+<p><strong>主题思想：</strong></p>
+<ol>
+<li><strong>怀古咏史</strong>：通过对孙权的赞美，表达对英雄的景仰。</li>
+<li><strong>忧国忧民</strong>：借古讽今，暗示当时缺乏真正的英雄人物。</li>
+<li><strong>壮志难酬</strong>：表达词人报国无门的苦闷。</li>
+<li><strong>历史感慨</strong>：感叹历史兴亡的无常。</li>
+</ol>
+<p><strong>艺术特色：</strong></p>
+<ol>
+<li><strong>结构紧凑</strong>：上片写景抒情，下片怀古议论，层次分明。</li>
+<li><strong>对比手法</strong>：古今对比，突出现实的不如人意。</li>
+<li><strong>用典精当</strong>：以孙权为典型，贴切自然。</li>
+<li><strong>语言简练</strong>：词句精炼，意蕴深远。</li>
+</ol>
+<p><strong>表现手法：</strong></p>
+<ol>
+<li><strong>借景抒情</strong>：通过北固楼的风光引发历史感慨。</li>
+<li><strong>设问修辞</strong>：连用三个问句，增强表达效果。</li>
+<li><strong>引用典故</strong>：引用曹操对孙权的评价，增强说服力。</li>
+<li><strong>虚实结合</strong>：实写登临所见，虚写历史人物。</li>
+</ol>
+<p><strong>结构分析：</strong>
+上片：登临感怀。从眺望神州写到历史兴亡，奠定怀古基调。
+下片：怀古议论。集中赞美孙权，暗示对现实英雄的期待。</p>
+<p><strong>名句赏析：</strong></p>
+<ol>
+<li><strong>&quot;何处望神州？满眼风光北固楼&quot;</strong>：以问句开篇，点明登临的目的和所见。</li>
+<li><strong>&quot;千古兴亡多少事？悠悠&quot;</strong>：感叹历史的沧桑变化。</li>
+<li><strong>&quot;天下英雄谁敌手？曹刘&quot;</strong>：突出孙权在三国中的地位。</li>
+<li><strong>&quot;生子当如孙仲谋&quot;</strong>：引用曹操的话，强调孙权的杰出。</li>
+</ol>
+<p><strong>语言特点：</strong></p>
+<ol>
+<li><strong>问答式结构</strong>：全词多用问句，形成问答式的结构。</li>
+<li><strong>对仗工整</strong>：如&quot;何处望神州？满眼风光北固楼&quot;。</li>
+<li><strong>节奏明快</strong>：短句较多，节奏轻快有力。</li>
+<li><strong>用词精练</strong>：每个字都有其作用，无一冗余。</li>
+</ol>
+<p><strong>思想意义：</strong></p>
+<ol>
+<li><strong>英雄主义</strong>：表达对英雄人物的崇敬和向往。</li>
+<li><strong>现实关怀</strong>：通过怀古表达对现实政治的关注。</li>
+<li><strong>爱国情怀</strong>：始终不忘收复中原的理想。</li>
+<li><strong>历史意识</strong>：体现了深刻的历史思考。</li>
+</ol>
+<p><strong>与《永遇乐》的比较：</strong></p>
+<ol>
+<li><strong>题材相同</strong>：都是登北固亭怀古。</li>
+<li><strong>情调不同</strong>：《永遇乐》沉郁悲愤，此词相对明快。</li>
+<li><strong>手法不同</strong>：《永遇乐》用典繁富，此词相对简洁。</li>
+<li><strong>主旨相通</strong>：都表达了对英雄的向往和对现实的不满。</li>
+</ol>
+<p><strong>文学地位：</strong></p>
+</div></template>
+
+

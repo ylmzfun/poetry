@@ -1,0 +1,117 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@163.com
+ * @Date: 2025-10-04 07:38:51
+ * @LastEditors: ylmzfun ylmzfun@163.com
+ * @LastEditTime: 2025-10-04 07:38:51
+ * @FilePath: /Users/ylmzfun/Documents/study/note/poetry/诗词/元曲/大德歌·春.md
+ * @Description: 古文辞章汇编 - 传承中华文化经典
+-->
+<h1 id="大德歌·春" tabindex="-1"><a class="header-anchor" href="#大德歌·春"><span>大德歌·春</span></a></h1>
+<p>作者：关汉卿（元）
+体裁：散曲/小令</p>
+<p>导言</p>
+<ul>
+<li>语言直率，情致浓烈；春景中寓人生况味。</li>
+</ul>
+<p>底本与版本</p>
+<ul>
+<li>推荐检索：中华书局《元曲选》或《全元散曲》；旁证各家评注。</li>
+</ul>
+<h2 id="原文" tabindex="-1"><a class="header-anchor" href="#原文"><span>原文</span></a></h2>
+<p>子规啼，不如归，道是春归人未归。几日添憔悴，虚飞了百花头上过，也则是为他人做嫁衣。</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<p><strong>子规：</strong> 杜鹃鸟，传说是古蜀王杜宇的魂魄所化。<br>
+<strong>不如归：</strong> 杜鹃鸟的叫声，听起来像&quot;不如归去&quot;。<br>
+<strong>道是：</strong> 说是。<br>
+<strong>春归：</strong> 春天过去了。<br>
+<strong>人未归：</strong> 人还没有回来。<br>
+<strong>几日：</strong> 这些日子。<br>
+<strong>添憔悴：</strong> 增加了憔悴。<br>
+<strong>虚飞了：</strong> 白白地飞过了。<br>
+<strong>百花头上过：</strong> 从百花上面飞过。<br>
+<strong>也则是：</strong> 也只是。<br>
+<strong>为他人做嫁衣：</strong> 比喻自己辛苦而别人得利。</p>
+<h2 id="译文" tabindex="-1"><a class="header-anchor" href="#译文"><span>译文</span></a></h2>
+<p>杜鹃鸟啼叫着&quot;不如归去&quot;，说是春天过去了人还没有回来。这些日子增加了憔悴，白白地从百花上面飞过，也只是为别人做嫁衣裳。</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<h3 id="创作背景" tabindex="-1"><a class="header-anchor" href="#创作背景"><span>创作背景</span></a></h3>
+<p>关汉卿是元代杂剧的奠基人，也是散曲创作的高手。这首《大德歌·春》是他的散曲代表作之一，表现了对春光易逝、青春虚度的感慨。</p>
+<h3 id="主题思想" tabindex="-1"><a class="header-anchor" href="#主题思想"><span>主题思想</span></a></h3>
+<ol>
+<li><strong>春愁离恨</strong>：表达对春天逝去的惋惜和离愁</li>
+<li><strong>人生感慨</strong>：感叹青春虚度，时光易逝</li>
+<li><strong>现实关怀</strong>：反映了对现实生活的不满</li>
+<li><strong>情感寄托</strong>：借春景抒发内心的愁苦</li>
+</ol>
+<h3 id="艺术特色" tabindex="-1"><a class="header-anchor" href="#艺术特色"><span>艺术特色</span></a></h3>
+<ol>
+<li><strong>语言通俗</strong>：用词平易近人，接近口语</li>
+<li><strong>情感真挚</strong>：直接表达内心的真实感受</li>
+<li><strong>意象鲜明</strong>：子规、百花等意象生动形象</li>
+<li><strong>节奏明快</strong>：音韵和谐，朗朗上口</li>
+</ol>
+<h3 id="表现手法" tabindex="-1"><a class="header-anchor" href="#表现手法"><span>表现手法</span></a></h3>
+<ol>
+<li><strong>借景抒情</strong>：通过春景描写表达内心情感</li>
+<li><strong>象征手法</strong>：子规象征离愁，百花象征青春</li>
+<li><strong>对比手法</strong>：春归与人未归形成对比</li>
+<li><strong>比喻手法</strong>：&quot;为他人做嫁衣&quot;形象地表达虚度光阴</li>
+</ol>
+<h3 id="结构分析" tabindex="-1"><a class="header-anchor" href="#结构分析"><span>结构分析</span></a></h3>
+<ol>
+<li><strong>开头两句</strong>：写子规啼叫，点出春归人未归的主题</li>
+<li><strong>中间两句</strong>：写因此而产生的憔悴之感</li>
+<li><strong>结尾两句</strong>：用比喻总结，表达虚度光阴的感慨</li>
+</ol>
+<h3 id="名句赏析" tabindex="-1"><a class="header-anchor" href="#名句赏析"><span>名句赏析</span></a></h3>
+<ol>
+<li>
+<p><strong>&quot;子规啼，不如归，道是春归人未归&quot;</strong>：开篇点题，以子规啼叫引出离愁别恨。</p>
+</li>
+<li>
+<p><strong>&quot;几日添憔悴&quot;</strong>：直接表达内心的愁苦，语言简洁有力。</p>
+</li>
+<li>
+<p><strong>&quot;虚飞了百花头上过，也则是为他人做嫁衣&quot;</strong>：用比喻手法表达虚度光阴的感慨，形象生动。</p>
+</li>
+</ol>
+<h3 id="语言特点" tabindex="-1"><a class="header-anchor" href="#语言特点"><span>语言特点</span></a></h3>
+<ol>
+<li><strong>通俗易懂</strong>：语言平实，不用典故</li>
+<li><strong>口语化</strong>：接近日常口语，自然流畅</li>
+<li><strong>感情色彩浓</strong>：用词带有强烈的感情色彩</li>
+<li><strong>音韵和谐</strong>：平仄相间，读来顺口</li>
+</ol>
+<h3 id="思想内涵" tabindex="-1"><a class="header-anchor" href="#思想内涵"><span>思想内涵</span></a></h3>
+<ol>
+<li><strong>时间意识</strong>：对时光流逝的敏感认知</li>
+<li><strong>人生哲理</strong>：对虚度光阴的深刻反思</li>
+<li><strong>现实批判</strong>：对不合理现实的间接批判</li>
+<li><strong>情感表达</strong>：真实自然的情感流露</li>
+</ol>
+<h3 id="艺术成就" tabindex="-1"><a class="header-anchor" href="#艺术成就"><span>艺术成就</span></a></h3>
+<ol>
+<li><strong>散曲典范</strong>：成为元代散曲的经典之作</li>
+<li><strong>语言贡献</strong>：丰富了散曲的语言表达</li>
+<li><strong>情感表达</strong>：在情感表达上达到了很高水准</li>
+<li><strong>音韵美</strong>：在音韵方面有很高的艺术价值</li>
+</ol>
+<h3 id="与其他作品比较" tabindex="-1"><a class="header-anchor" href="#与其他作品比较"><span>与其他作品比较</span></a></h3>
+<ol>
+<li><strong>与词的区别</strong>：比词更加通俗化，更接近口语</li>
+<li><strong>与诗的区别</strong>：在格律上更加自由，表达更加直接</li>
+<li><strong>与杂剧的关系</strong>：体现了关汉卿一贯的语言风格</li>
+<li><strong>在散曲中的地位</strong>：代表了元代散曲的最高水准</li>
+</ol>
+<h3 id="文学地位" tabindex="-1"><a class="header-anchor" href="#文学地位"><span>文学地位</span></a></h3>
+<p>这首《大德歌·春》在中国文学史上具有重要地位：</p>
+<ol>
+<li><strong>散曲代表</strong>：成为元代散曲的代表作品</li>
+<li><strong>语言典范</strong>：在语言运用上具有典范意义</li>
+<li><strong>情感表达</strong>：在情感表达方面有重要贡献</li>
+<li><strong>文化价值</strong>：体现了元代文人的精神风貌</li>
+<li><strong>艺术影响</strong>：对后世散曲创作产生了重要影响</li>
+</ol>
+</div></template>
+
+

@@ -1,0 +1,30 @@
+{
+  "name": "poetry",
+  "version": "1.0.0",
+  "description": "古文辞章汇编 - 传承中华文化经典",
+  "main": "index.js",
+  "scripts": {
+    "docs:dev": "vuepress dev docs",
+    "docs:build": "vuepress build docs",
+    "docs:serve": "vuepress serve docs",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "古文",
+    "诗词",
+    "国学",
+    "经典",
+    "文学",
+    "vuepress"
+  ],
+  "author": "ylmzfun <ylmzfun@163.com>",
+  "license": "ISC",
+  "devDependencies": {
+    "@vuepress/bundler-vite": "^2.0.0-rc.24",
+    "@vuepress/client": "^2.0.0-rc.24",
+    "@vuepress/plugin-search": "^1.9.10",
+    "@vuepress/theme-default": "^2.0.0-rc.112",
+    "sass-embedded": "^1.93.2",
+    "vuepress": "^2.0.0-rc.24"
+  }
+}

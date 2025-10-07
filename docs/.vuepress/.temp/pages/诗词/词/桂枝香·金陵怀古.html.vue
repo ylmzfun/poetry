@@ -1,0 +1,170 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@163.com
+ * @Date: 2025-10-04 07:38:51
+ * @LastEditors: ylmzfun ylmzfun@163.com
+ * @LastEditTime: 2025-10-04 07:38:51
+ * @FilePath: /Users/ylmzfun/Documents/study/note/poetry/诗词/词/桂枝香·金陵怀古.md
+ * @Description: 古文辞章汇编 - 传承中华文化经典
+-->
+<h1 id="桂枝香·金陵怀古" tabindex="-1"><a class="header-anchor" href="#桂枝香·金陵怀古"><span>桂枝香·金陵怀古</span></a></h1>
+<p>作者：王安石（北宋）
+体裁：词</p>
+<p>导言</p>
+<ul>
+<li>金陵怀古，议论深婉，章法谨严。</li>
+</ul>
+<p>底本与版本</p>
+<ul>
+<li>推荐检索：中华书局《王安石集》或《全宋词》相关卷；旁证历代选本。</li>
+</ul>
+<h2 id="原文" tabindex="-1"><a class="header-anchor" href="#原文"><span>原文</span></a></h2>
+<p>登临送目，正故国晚秋，天气初肃。千里澄江似练，翠峰如簇。归帆去棹残阳里，背西风，酒旗斜矗。彩舟云淡，星河鹭起，画图难足。</p>
+<p>念往昔，繁华竞逐，叹门外楼头，悲恨相续。千古凭高对此，谩嗟荣辱。六朝旧事随流水，但寒烟衰草凝绿。至今商女，时时犹唱，后庭遗曲。</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<h3 id="注释-1" tabindex="-1"><a class="header-anchor" href="#注释-1"><span>注释</span></a></h3>
+<p><strong>桂枝香</strong>：词牌名，双调一百零一字，前段十句四仄韵，后段十一句五仄韵。</p>
+<p><strong>登临送目</strong>：登高远望。送目，放眼远望。</p>
+<p><strong>故国</strong>：旧都，指金陵（今南京）。</p>
+<p><strong>晚秋</strong>：深秋。</p>
+<p><strong>天气初肃</strong>：天气刚刚变得严肃萧瑟。</p>
+<p><strong>千里澄江似练</strong>：千里长江清澈如白练。澄江，清澈的江水。练，白色的丝绸。</p>
+<p><strong>翠峰如簇</strong>：青翠的山峰如花簇一般聚集。</p>
+<p><strong>归帆去棹</strong>：归来的帆船和离去的船桨。</p>
+<p><strong>残阳里</strong>：夕阳中。</p>
+<p><strong>背西风</strong>：迎着西风。</p>
+<p><strong>酒旗斜矗</strong>：酒店的旗帜斜立着。</p>
+<p><strong>彩舟云淡</strong>：彩色的船只在淡云中。</p>
+<p><strong>星河鹭起</strong>：银河般的江面上白鹭飞起。</p>
+<p><strong>画图难足</strong>：画图难以充分表现。</p>
+<p><strong>念往昔</strong>：想起往昔。</p>
+<p><strong>繁华竞逐</strong>：繁华景象竞相追逐。</p>
+<p><strong>门外楼头</strong>：城门外楼台上。</p>
+<p><strong>悲恨相续</strong>：悲伤怨恨相继不断。</p>
+<p><strong>千古凭高对此</strong>：千古以来登高面对此景。</p>
+<p><strong>谩嗟荣辱</strong>：徒然感叹荣辱。谩，徒然。</p>
+<p><strong>六朝旧事</strong>：六朝的往事。六朝，指东吴、东晋、宋、齐、梁、陈六个朝代，都建都金陵。</p>
+<p><strong>随流水</strong>：随着流水消逝。</p>
+<p><strong>寒烟衰草</strong>：寒冷的烟雾和衰败的草木。</p>
+<p><strong>凝绿</strong>：凝聚着绿色。</p>
+<p><strong>商女</strong>：歌女。</p>
+<p><strong>后庭遗曲</strong>：《玉树后庭花》等亡国之音。</p>
+<h3 id="译文" tabindex="-1"><a class="header-anchor" href="#译文"><span>译文</span></a></h3>
+<p>登高远望，正值故都深秋，天气刚刚变得萧瑟。千里长江清澈如白练，青翠的山峰如花簇聚集。归来的帆船和离去的船桨在夕阳中，迎着西风，酒店的旗帜斜立着。彩色的船只在淡云中，银河般的江面上白鹭飞起，这美景画图难以充分表现。</p>
+<p>想起往昔，繁华景象竞相追逐，感叹城门外楼台上，悲伤怨恨相继不断。千古以来登高面对此景，徒然感叹荣辱。六朝的往事随着流水消逝，只有寒冷的烟雾和衰败的草木凝聚着绿色。直到今天歌女们，还时时唱着《玉树后庭花》等亡国遗曲。</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<h3 id="创作背景" tabindex="-1"><a class="header-anchor" href="#创作背景"><span>创作背景</span></a></h3>
+<p>这首词作于王安石晚年，当时他已经退出政坛，居住在金陵。面对六朝古都的繁华与衰落，词人感慨万千，写下了这首怀古名作。词中既有对自然美景的赞叹，也有对历史兴衰的深刻思考。</p>
+<h3 id="主题思想" tabindex="-1"><a class="header-anchor" href="#主题思想"><span>主题思想</span></a></h3>
+<ol>
+<li><strong>怀古伤今</strong>：通过对金陵古迹的凭吊，抒发对历史兴衰的感慨</li>
+<li><strong>政治感慨</strong>：暗含对当时政治现实的忧虑和思考</li>
+<li><strong>人生哲理</strong>：表达对荣辱得失的超脱态度</li>
+<li><strong>忧国情怀</strong>：体现了深沉的忧国忧民情怀</li>
+</ol>
+<h3 id="艺术特色" tabindex="-1"><a class="header-anchor" href="#艺术特色"><span>艺术特色</span></a></h3>
+<ol>
+<li><strong>情景交融</strong>：将个人情感与历史景观完美结合</li>
+<li><strong>虚实相生</strong>：实写金陵美景，虚写历史感慨</li>
+<li><strong>对比鲜明</strong>：昔日繁华与今日萧条形成强烈对比</li>
+<li><strong>意境深远</strong>：营造了深远的历史意境</li>
+</ol>
+<h3 id="表现手法" tabindex="-1"><a class="header-anchor" href="#表现手法"><span>表现手法</span></a></h3>
+<ol>
+<li><strong>借景抒情</strong>：通过金陵秋景抒发怀古之情</li>
+<li><strong>用典手法</strong>：运用六朝典故增强历史感</li>
+<li><strong>对比手法</strong>：古今对比，盛衰对比</li>
+<li><strong>象征手法</strong>：以自然景物象征历史变迁</li>
+</ol>
+<h3 id="结构分析" tabindex="-1"><a class="header-anchor" href="#结构分析"><span>结构分析</span></a></h3>
+<p><strong>上片</strong>：写景。从登临送目写到金陵秋景，奠定怀古基调</p>
+<ul>
+<li>开头：点明时间地点</li>
+<li>中间：描写江山美景</li>
+<li>结尾：总结美景如画</li>
+</ul>
+<p><strong>下片</strong>：怀古。从历史繁华写到现实感慨，深化主题</p>
+<ul>
+<li>开头：回忆往昔繁华</li>
+<li>中间：感叹历史兴衰</li>
+<li>结尾：点出现实忧虑</li>
+</ul>
+<h3 id="名句赏析" tabindex="-1"><a class="header-anchor" href="#名句赏析"><span>名句赏析</span></a></h3>
+<ol>
+<li>
+<p><strong>&quot;千里澄江似练，翠峰如簇&quot;</strong>：运用比喻，生动描绘了金陵山水的壮美。</p>
+</li>
+<li>
+<p><strong>&quot;归帆去棹残阳里，背西风，酒旗斜矗&quot;</strong>：动静结合，描绘了江上黄昏的生动景象。</p>
+</li>
+<li>
+<p><strong>&quot;彩舟云淡，星河鹭起，画图难足&quot;</strong>：以&quot;画图难足&quot;总结美景，表达了对自然美的赞叹。</p>
+</li>
+<li>
+<p><strong>&quot;六朝旧事随流水，但寒烟衰草凝绿&quot;</strong>：以流水比喻历史的消逝，以寒烟衰草象征现实的萧条。</p>
+</li>
+<li>
+<p><strong>&quot;至今商女，时时犹唱，后庭遗曲&quot;</strong>：化用杜牧诗意，批判不知亡国恨的现象。</p>
+</li>
+</ol>
+<h3 id="意象分析" tabindex="-1"><a class="header-anchor" href="#意象分析"><span>意象分析</span></a></h3>
+<ol>
+<li><strong>澄江如练</strong>：象征历史的流逝和永恒</li>
+<li><strong>翠峰如簇</strong>：象征自然的永恒和美丽</li>
+<li><strong>归帆去棹</strong>：象征人生的来去匆匆</li>
+<li><strong>寒烟衰草</strong>：象征历史的萧条和衰败</li>
+<li><strong>后庭遗曲</strong>：象征亡国之音和历史教训</li>
+</ol>
+<h3 id="语言特色" tabindex="-1"><a class="header-anchor" href="#语言特色"><span>语言特色</span></a></h3>
+<ol>
+<li><strong>典雅精练</strong>：用词典雅，语言精练</li>
+<li><strong>音韵和谐</strong>：平仄协调，音律优美</li>
+<li><strong>意象丰富</strong>：运用了丰富的意象</li>
+<li><strong>情感深沉</strong>：表达的情感深沉含蓄</li>
+</ol>
+<h3 id="思想意义" tabindex="-1"><a class="header-anchor" href="#思想意义"><span>思想意义</span></a></h3>
+<ol>
+<li><strong>历史意识</strong>：体现了深刻的历史意识</li>
+<li><strong>忧患意识</strong>：表现了强烈的忧患意识</li>
+<li><strong>哲理思考</strong>：包含了深刻的人生哲理</li>
+<li><strong>爱国情怀</strong>：体现了深沉的爱国情怀</li>
+</ol>
+<h3 id="艺术成就" tabindex="-1"><a class="header-anchor" href="#艺术成就"><span>艺术成就</span></a></h3>
+<ol>
+<li><strong>意境深远</strong>：营造了深远的艺术意境</li>
+<li><strong>技巧娴熟</strong>：运用了娴熟的艺术技巧</li>
+<li><strong>情感真挚</strong>：表达了真挚深沉的情感</li>
+<li><strong>语言优美</strong>：语言优美流畅，富有诗意</li>
+</ol>
+<h3 id="文学地位" tabindex="-1"><a class="header-anchor" href="#文学地位"><span>文学地位</span></a></h3>
+<ol>
+<li><strong>怀古词典范</strong>：成为怀古词的典范之作</li>
+<li><strong>王安石代表作</strong>：是王安石词作中的代表作</li>
+<li><strong>宋词名篇</strong>：在宋词中占有重要地位</li>
+<li><strong>影响深远</strong>：对后世怀古文学产生了重要影响</li>
+</ol>
+<h3 id="与其他怀古作品比较" tabindex="-1"><a class="header-anchor" href="#与其他怀古作品比较"><span>与其他怀古作品比较</span></a></h3>
+<p>与苏轼《念奴娇·赤壁怀古》相比：</p>
+<ul>
+<li>王安石偏重政治感慨，苏轼偏重人生哲理</li>
+<li>王安石语言更加典雅，苏轼更加豪放</li>
+<li>王安石注重历史教训，苏轼注重个人感悟</li>
+</ul>
+<p>与辛弃疾《永遇乐·京口北固亭怀古》相比：</p>
+<ul>
+<li>都是金陵怀古，但时代背景不同</li>
+<li>王安石更加含蓄，辛弃疾更加激昂</li>
+<li>王安石偏重历史反思，辛弃疾偏重现实批判</li>
+</ul>
+<h3 id="影响与评价" tabindex="-1"><a class="header-anchor" href="#影响与评价"><span>影响与评价</span></a></h3>
+<p>这首词以其深刻的历史意识、精湛的艺术技巧、优美的语言表达，成为宋词中怀古题材的经典之作。它不仅展现了王安石作为政治家的深刻思考，也体现了他作为文学家的高超才华。词中表达的忧患意识和历史反思，对后世产生了重要影响。</p>
+<h3 id="现代意义" tabindex="-1"><a class="header-anchor" href="#现代意义"><span>现代意义</span></a></h3>
+<p>这首词对今天仍有重要的启示意义：</p>
+<ol>
+<li><strong>历史教训</strong>：提醒我们要从历史中汲取教训</li>
+<li><strong>忧患意识</strong>：启发我们要有忧患意识</li>
+<li><strong>文化传承</strong>：体现了文化传承的重要性</li>
+<li><strong>爱国情怀</strong>：激发我们的爱国主义情怀</li>
+</ol>
+</div></template>
+
+

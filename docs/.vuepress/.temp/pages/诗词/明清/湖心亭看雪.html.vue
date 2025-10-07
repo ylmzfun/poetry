@@ -1,0 +1,97 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@163.com
+ * @Date: 2025-10-01 16:19:18
+ * @LastEditors: ylmzfun ylmzfun@163.com
+ * @LastEditTime: 2025-10-01 18:39:24
+ * @FilePath: /诗词/诗词/明清/湖心亭看雪.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<h1 id="湖心亭看雪" tabindex="-1"><a class="header-anchor" href="#湖心亭看雪"><span>湖心亭看雪</span></a></h1>
+<p><strong>作者：</strong> 张岱<br>
+<strong>朝代：</strong> 明末清初<br>
+<strong>体裁：</strong> 散文<br>
+<strong>出处：</strong> 《陶庵梦忆》</p>
+<h2 id="简介" tabindex="-1"><a class="header-anchor" href="#简介"><span>简介</span></a></h2>
+<p>《湖心亭看雪》是明末清初文学家张岱的代表作，选自《陶庵梦忆》。这篇小品文写于明亡之后，作者通过描写在西湖雪夜独往湖心亭赏雪的经历，表达了深沉的故国之思和人生感慨。文章以清淡的笔墨，写出了雪夜西湖的奇景和作者孤高的情怀，体现了明代小品文的艺术成就。</p>
+<h2 id="推荐版本" tabindex="-1"><a class="header-anchor" href="#推荐版本"><span>推荐版本</span></a></h2>
+<ul>
+<li>中华书局《张岱文集》</li>
+<li>《古文观止》本</li>
+<li>上海古籍出版社《陶庵梦忆》</li>
+</ul>
+<h2 id="原文" tabindex="-1"><a class="header-anchor" href="#原文"><span>原文</span></a></h2>
+<p>崇祯五年十二月，余住西湖。大雪三日，湖中人鸟声俱绝。是日更定矣，余拏一小舟，拥毳衣炉火，独往湖心亭看雪。雾凇沆砀，天与云与山与水，上下一白。湖上影子，惟长堤一痕、湖心亭一点、与余舟一芥、舟中人两三粒而已。</p>
+<p>到亭上，有两人铺毡对坐，一童子烧酒炉正沸。见余，大喜曰：&quot;湖中焉得更有此人！&quot;拉余同饮。余强饮三大白而别。问其姓氏，是金陵人，客此。及下船，舟子喃喃曰：&quot;莫说相公痴，更有痴似相公者！&quot;</p>
+<h2 id="注释" tabindex="-1"><a class="header-anchor" href="#注释"><span>注释</span></a></h2>
+<p><strong>崇祯五年：</strong> 公元1632年。<br>
+<strong>人鸟声俱绝：</strong> 人声鸟声都没有了。<br>
+<strong>更定：</strong> 初更以后，大约晚上八点左右。<br>
+<strong>拏：</strong> 撑，划。<br>
+<strong>毳衣：</strong> 细毛皮衣。<br>
+<strong>雾凇沆砀：</strong> 冰花一片弥漫。雾凇，水气凝成的冰花。沆砀，白气弥漫的样子。<br>
+<strong>上下一白：</strong> 天上地下全是白茫茫一片。<br>
+<strong>长堤一痕：</strong> 指苏堤，在雪中只剩下淡淡的痕迹。<br>
+<strong>一芥：</strong> 一粒芥菜子，比喻极小。<br>
+<strong>两三粒：</strong> 形容人非常小。<br>
+<strong>铺毡：</strong> 铺着毛毡。<br>
+<strong>焉得：</strong> 哪能。<br>
+<strong>强饮：</strong> 尽力喝。<br>
+<strong>三大白：</strong> 三大杯酒。白，酒杯。<br>
+<strong>金陵：</strong> 今南京。<br>
+<strong>客此：</strong> 客居在这里。<br>
+<strong>舟子：</strong> 船夫。<br>
+<strong>喃喃：</strong> 小声嘀咕。<br>
+<strong>相公：</strong> 对读书人的尊称。</p>
+<h2 id="译文" tabindex="-1"><a class="header-anchor" href="#译文"><span>译文</span></a></h2>
+<p>崇祯五年十二月，我住在西湖边。大雪下了三天，湖中人声鸟声都没有了。这天初更以后，我撑着一只小船，穿着毛皮衣，带着火炉，独自前往湖心亭看雪。冰花一片弥漫，天与云与山与水，上下全是白茫茫一片。湖上的影子，只有长堤一道痕迹、湖心亭一个点、和我的小船一粒芥菜子、船中人两三粒米粒大小罢了。</p>
+<p>到了亭上，有两个人铺着毛毡相对而坐，一个童子正在烧酒，酒炉正沸腾着。看见我，非常高兴地说：&quot;湖中怎么还能有这样的人！&quot;拉着我一同饮酒。我尽力喝了三大杯就告别了。问他们的姓氏，是南京人，客居在这里。等到下船时，船夫嘀咕说：&quot;不要说相公您痴，还有比相公更痴的人呢！&quot;</p>
+<h2 id="赏析" tabindex="-1"><a class="header-anchor" href="#赏析"><span>赏析</span></a></h2>
+<h3 id="创作背景" tabindex="-1"><a class="header-anchor" href="#创作背景"><span>创作背景</span></a></h3>
+<p>《湖心亭看雪》写于明亡之后，张岱此时已是遗民。崇祯五年（1632年）是明朝末年，社会动荡，张岱通过回忆往昔在西湖的雪夜经历，寄托了对故国的怀念和对人生的感慨。</p>
+<h3 id="主题思想" tabindex="-1"><a class="header-anchor" href="#主题思想"><span>主题思想</span></a></h3>
+<ol>
+<li><strong>故国之思</strong>：通过雪夜赏景，表达对明朝覆亡的哀思</li>
+<li><strong>人生感慨</strong>：在茫茫雪景中感受人生的渺小和孤独</li>
+<li><strong>雅趣情怀</strong>：表现文人雅士的审美情趣和精神追求</li>
+<li><strong>知音难觅</strong>：通过与陌生人的相遇，表达知音难觅的感慨</li>
+</ol>
+<h3 id="艺术特色" tabindex="-1"><a class="header-anchor" href="#艺术特色"><span>艺术特色</span></a></h3>
+<ol>
+<li><strong>白描手法</strong>：用简洁的笔墨勾勒出雪夜西湖的奇景</li>
+<li><strong>对比鲜明</strong>：通过动静、大小、多少的对比，突出意境</li>
+<li><strong>情景交融</strong>：将个人情感融入自然景色之中</li>
+<li><strong>语言精练</strong>：用词准确，句式简洁，富有表现力</li>
+</ol>
+<h3 id="表现手法" tabindex="-1"><a class="header-anchor" href="#表现手法"><span>表现手法</span></a></h3>
+<ol>
+<li><strong>点面结合</strong>：既有全景描写，又有细节刻画</li>
+<li><strong>虚实相生</strong>：实写雪景，虚写情感</li>
+<li><strong>以小见大</strong>：通过小小的湖心亭，反映广阔的人生感慨</li>
+<li><strong>欲扬先抑</strong>：先写孤独，后写相遇，形成情感的波澜</li>
+</ol>
+<h3 id="结构分析" tabindex="-1"><a class="header-anchor" href="#结构分析"><span>结构分析</span></a></h3>
+<p>全文分为三个层次：</p>
+<ol>
+<li><strong>第一层</strong>：写雪夜独往湖心亭的情景</li>
+<li><strong>第二层</strong>：写在亭中与陌生人相遇饮酒</li>
+<li><strong>第三层</strong>：写船夫的评论，点出&quot;痴&quot;字</li>
+</ol>
+<h3 id="名句赏析" tabindex="-1"><a class="header-anchor" href="#名句赏析"><span>名句赏析</span></a></h3>
+<ol>
+<li>
+<p><strong>&quot;雾凇沆砀，天与云与山与水，上下一白&quot;</strong>：用简洁的语言描绘出雪后西湖的壮观景象，天地一色，浑然一体。</p>
+</li>
+<li>
+<p><strong>&quot;湖上影子，惟长堤一痕、湖心亭一点、与余舟一芥、舟中人两三粒而已&quot;</strong>：通过数量词的递减和比喻，表现了雪景中的空旷和人的渺小。</p>
+</li>
+<li>
+<p><strong>&quot;湖中焉得更有此人！&quot;</strong>：表现了知音相遇的惊喜，也暗示了这种雅趣的难得。</p>
+</li>
+<li>
+<p><strong>&quot;莫说相公痴，更有痴似相公者！&quot;</strong>：船夫的话点出了全文的主旨，&quot;痴&quot;字既是对雪夜赏景行为的评价，也是对这种雅趣情怀的赞美。</p>
+</li>
+</ol>
+<h3 id="文学地位" tabindex="-1"><a class="header-anchor" href="#文学地位"><span>文学地位</span></a></h3>
+</div></template>
+
+

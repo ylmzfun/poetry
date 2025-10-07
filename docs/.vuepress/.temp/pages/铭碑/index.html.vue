@@ -1,0 +1,110 @@
+<template><div><!--
+ * @Author: ylmzfun ylmzfun@163.com
+ * @Date: 2025-10-06 22:37:52
+ * @LastEditors: ylmzfun ylmzfun@163.com
+ * @LastEditTime: 2025-10-06 22:37:54
+ * @FilePath: /poetry/docs/铭碑/README.md
+ * @Description: 这是默认设置,请设置`customMade`, 打开koroFileHeader查看配置 进行设置: https://github.com/OBKoro1/koro1FileHeader/wiki/%E9%85%8D%E7%BD%AE
+-->
+<h1 id="铭碑类" tabindex="-1"><a class="header-anchor" href="#铭碑类"><span>铭碑类</span></a></h1>
+<p>铭碑类文章是中国古代重要的文体形式，主要用于记述功德、警示后人、纪念先贤。这类文体具有庄重典雅的特点，既有实用价值，又有很高的文学价值，是研究古代历史文化的重要资料。</p>
+<h2 id="📚-文体分类" tabindex="-1"><a class="header-anchor" href="#📚-文体分类"><span>📚 文体分类</span></a></h2>
+<h3 id="🏛️-铭文类" tabindex="-1"><a class="header-anchor" href="#🏛️-铭文类"><span>🏛️ 铭文类</span></a></h3>
+<ul>
+<li><strong>器物铭</strong>：刻在器物上的铭文</li>
+<li><strong>墓志铭</strong>：记述死者生平的铭文</li>
+<li><strong>文体特点</strong>：简洁凝练，寓意深刻</li>
+</ul>
+<h3 id="🗿-碑文类" tabindex="-1"><a class="header-anchor" href="#🗿-碑文类"><span>🗿 碑文类</span></a></h3>
+<ul>
+<li><strong>功德碑</strong>：记述功德事迹的碑文</li>
+<li><strong>纪念碑</strong>：纪念重要人物或事件</li>
+<li><strong>碑文特点</strong>：庄重典雅，史料价值高</li>
+</ul>
+<h3 id="📜-记文类" tabindex="-1"><a class="header-anchor" href="#📜-记文类"><span>📜 记文类</span></a></h3>
+<ul>
+<li><strong>记事文</strong>：记录重要事件的文章</li>
+<li><strong>游记文</strong>：记述游览经历的文章</li>
+<li><strong>记文特点</strong>：叙事详实，文笔优美</li>
+</ul>
+<h2 id="🌟-代表作品" tabindex="-1"><a class="header-anchor" href="#🌟-代表作品"><span>🌟 代表作品</span></a></h2>
+<h3 id="🏛️-经典名篇" tabindex="-1"><a class="header-anchor" href="#🏛️-经典名篇"><span>🏛️ 经典名篇</span></a></h3>
+<table>
+<thead>
+<tr>
+<th>作品</th>
+<th>作者</th>
+<th>朝代</th>
+<th>特色</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td><RouteLink to="/%E9%93%AD%E7%A2%91/%E9%99%8B%E5%AE%A4%E9%93%AD.html">陋室铭</RouteLink></td>
+<td>刘禹锡</td>
+<td>唐</td>
+<td>托物言志的典范</td>
+</tr>
+<tr>
+<td><RouteLink to="/%E9%93%AD%E7%A2%91/%E7%88%B1%E8%8E%B2%E8%AF%B4.html">爱莲说</RouteLink></td>
+<td>周敦颐</td>
+<td>宋</td>
+<td>借物喻人的杰作</td>
+</tr>
+</tbody>
+</table>
+<h3 id="📖-学习价值" tabindex="-1"><a class="header-anchor" href="#📖-学习价值"><span>📖 学习价值</span></a></h3>
+<ul>
+<li><strong>史学价值</strong>：记录重要历史事件和人物</li>
+<li><strong>文学价值</strong>：语言精练，意境深远</li>
+<li><strong>道德价值</strong>：体现古代的道德观念和价值追求</li>
+<li><strong>艺术价值</strong>：结构严谨，文辞优美</li>
+</ul>
+<h2 id="🎯-学习指导" tabindex="-1"><a class="header-anchor" href="#🎯-学习指导"><span>🎯 学习指导</span></a></h2>
+<h3 id="📚-阅读方法" tabindex="-1"><a class="header-anchor" href="#📚-阅读方法"><span>📚 阅读方法</span></a></h3>
+<ol>
+<li><strong>文体特征</strong>：了解铭碑类文章的基本特点和写作规范</li>
+<li><strong>历史背景</strong>：理解文章产生的历史背景和社会环境</li>
+<li><strong>思想内容</strong>：把握作者的思想观点和价值取向</li>
+<li><strong>艺术手法</strong>：学习托物言志、借物喻人等表现手法</li>
+</ol>
+<h3 id="🔍-重点关注" tabindex="-1"><a class="header-anchor" href="#🔍-重点关注"><span>🔍 重点关注</span></a></h3>
+<ul>
+<li><strong>警示作用</strong>：体会铭文的教育和警示功能</li>
+<li><strong>纪念意义</strong>：理解碑文的纪念和传承价值</li>
+<li><strong>文学技巧</strong>：学习简洁凝练的表达方式</li>
+<li><strong>思想内涵</strong>：深入理解文章的思想内涵</li>
+</ul>
+<h2 id="📝-写作特点" tabindex="-1"><a class="header-anchor" href="#📝-写作特点"><span>📝 写作特点</span></a></h2>
+<h3 id="✨-语言特色" tabindex="-1"><a class="header-anchor" href="#✨-语言特色"><span>✨ 语言特色</span></a></h3>
+<ul>
+<li><strong>简洁凝练</strong>：用词精当，言简意赅</li>
+<li><strong>庄重典雅</strong>：语调庄重，风格典雅</li>
+<li><strong>寓意深刻</strong>：含义深远，耐人寻味</li>
+</ul>
+<h3 id="🎨-结构特点" tabindex="-1"><a class="header-anchor" href="#🎨-结构特点"><span>🎨 结构特点</span></a></h3>
+<ul>
+<li><strong>开门见山</strong>：直接点明主题</li>
+<li><strong>层次分明</strong>：条理清晰，逻辑严密</li>
+<li><strong>首尾呼应</strong>：结构完整，浑然一体</li>
+</ul>
+<h2 id="🌊-文化意义" tabindex="-1"><a class="header-anchor" href="#🌊-文化意义"><span>🌊 文化意义</span></a></h2>
+<h3 id="📈-社会功能" tabindex="-1"><a class="header-anchor" href="#📈-社会功能"><span>📈 社会功能</span></a></h3>
+<ul>
+<li><strong>教育功能</strong>：通过铭文教育后人</li>
+<li><strong>纪念功能</strong>：记录和纪念重要人物事件</li>
+<li><strong>传承功能</strong>：传承文化和价值观念</li>
+<li><strong>警示功能</strong>：警示后人避免重蹈覆辙</li>
+</ul>
+<h3 id="🎨-艺术特色" tabindex="-1"><a class="header-anchor" href="#🎨-艺术特色"><span>🎨 艺术特色</span></a></h3>
+<ul>
+<li><strong>托物言志</strong>：借助具体事物表达抽象思想</li>
+<li><strong>借古讽今</strong>：通过历史事件反映现实</li>
+<li><strong>情理并茂</strong>：既有理性思考，又有感情色彩</li>
+<li><strong>文质并重</strong>：内容充实，形式优美</li>
+</ul>
+<hr>
+<p><em>铭碑类文章以其独特的文体特征和深刻的思想内涵，成为中华文化传承的重要载体。</em></p>
+</div></template>
+
+
