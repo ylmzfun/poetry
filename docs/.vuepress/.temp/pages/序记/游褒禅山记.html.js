@@ -1,16 +1,3 @@
 import comp from "/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/序记/游褒禅山记.html.vue"
 const data = JSON.parse("{\"path\":\"/%E5%BA%8F%E8%AE%B0/%E6%B8%B8%E8%A4%92%E7%A6%85%E5%B1%B1%E8%AE%B0.html\",\"title\":\"游褒禅山记\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"git\":{\"updatedTime\":1759814383000,\"contributors\":[{\"name\":\"ylmzfun\",\"username\":\"ylmzfun\",\"email\":\"ylmzfun@163.com\",\"commits\":3,\"url\":\"https://github.com/ylmzfun\"}],\"changelog\":[{\"hash\":\"49d99a91bf888542fc5030384aa7a8a856b8ee5c\",\"time\":1759814383000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"优化展示逻辑\"},{\"hash\":\"f9a877def11d3ef2ab339b26cfd3b4984e92475f\",\"time\":1759540869000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"增加国学\"},{\"hash\":\"8991152bd4df6899789cf1d8679198e5396e5df7\",\"time\":1759328802000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"诗词\"}]},\"filePathRelative\":\"序记/游褒禅山记.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

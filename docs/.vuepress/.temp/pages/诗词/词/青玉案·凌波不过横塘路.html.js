@@ -1,16 +1,3 @@
 import comp from "/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/诗词/词/青玉案·凌波不过横塘路.html.vue"
 const data = JSON.parse("{\"path\":\"/%E8%AF%97%E8%AF%8D/%E8%AF%8D/%E9%9D%92%E7%8E%89%E6%A1%88%C2%B7%E5%87%8C%E6%B3%A2%E4%B8%8D%E8%BF%87%E6%A8%AA%E5%A1%98%E8%B7%AF.html\",\"title\":\"青玉案·凌波不过横塘路\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"git\":{\"updatedTime\":1759814383000,\"contributors\":[{\"name\":\"ylmzfun\",\"username\":\"ylmzfun\",\"email\":\"ylmzfun@163.com\",\"commits\":3,\"url\":\"https://github.com/ylmzfun\"}],\"changelog\":[{\"hash\":\"49d99a91bf888542fc5030384aa7a8a856b8ee5c\",\"time\":1759814383000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"优化展示逻辑\"},{\"hash\":\"f9a877def11d3ef2ab339b26cfd3b4984e92475f\",\"time\":1759540869000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"增加国学\"},{\"hash\":\"8991152bd4df6899789cf1d8679198e5396e5df7\",\"time\":1759328802000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"诗词\"}]},\"filePathRelative\":\"诗词/词/青玉案·凌波不过横塘路.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

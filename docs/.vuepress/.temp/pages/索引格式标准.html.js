@@ -1,16 +1,3 @@
 import comp from "/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/索引格式标准.html.vue"
 const data = JSON.parse("{\"path\":\"/%E7%B4%A2%E5%BC%95%E6%A0%BC%E5%BC%8F%E6%A0%87%E5%87%86.html\",\"title\":\"古文辞章汇编 - 索引格式标准\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"git\":{\"updatedTime\":1759814383000,\"contributors\":[{\"name\":\"ylmzfun\",\"username\":\"ylmzfun\",\"email\":\"ylmzfun@163.com\",\"commits\":2,\"url\":\"https://github.com/ylmzfun\"}],\"changelog\":[{\"hash\":\"49d99a91bf888542fc5030384aa7a8a856b8ee5c\",\"time\":1759814383000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"优化展示逻辑\"},{\"hash\":\"2aeed615e521226e6105d8dce9a3ada6dd123db8\",\"time\":1759719052000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"国学\"}]},\"filePathRelative\":\"索引格式标准.md\"}")
 export { comp, data }
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updatePageData) {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ data }) => {
-    __VUE_HMR_RUNTIME__.updatePageData(data)
-  })
-}

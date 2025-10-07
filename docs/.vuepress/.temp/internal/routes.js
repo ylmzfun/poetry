@@ -29,7 +29,6 @@ export const routes = Object.fromEntries([
   ["/%E5%BA%8F%E8%AE%B0/%E9%80%81%E8%91%A3%E9%82%B5%E5%8D%97%E5%BA%8F.html", { loader: () => import(/* webpackChunkName: "序记_送董邵南序.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/序记/送董邵南序.html.js"), meta: {"title":"送董邵南序"} }],
   ["/%E5%BA%8F%E8%AE%B0/%E9%86%89%E7%BF%81%E4%BA%AD%E8%AE%B0.html", { loader: () => import(/* webpackChunkName: "序记_醉翁亭记.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/序记/醉翁亭记.html.js"), meta: {"title":"醉翁亭记"} }],
   ["/%E5%BA%8F%E8%AE%B0/%E9%A9%AC%E8%AF%B4.html", { loader: () => import(/* webpackChunkName: "序记_马说.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/序记/马说.html.js"), meta: {"title":"马说"} }],
-  ["/%E8%AF%97%E8%AF%8D/", { loader: () => import(/* webpackChunkName: "诗词_index.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/诗词/index.html.js"), meta: {"title":"🌸 诗词类"} }],
   ["/%E8%A1%A8%E7%96%8F/", { loader: () => import(/* webpackChunkName: "表疏_index.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/表疏/index.html.js"), meta: {"title":"表疏类"} }],
   ["/%E8%A1%A8%E7%96%8F/%E4%B8%8E%E9%99%88%E4%BC%AF%E4%B9%8B%E4%B9%A6.html", { loader: () => import(/* webpackChunkName: "表疏_与陈伯之书.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/表疏/与陈伯之书.html.js"), meta: {"title":"与陈伯之书"} }],
   ["/%E8%A1%A8%E7%96%8F/%E5%89%8D%E5%87%BA%E5%B8%88%E8%A1%A8.html", { loader: () => import(/* webpackChunkName: "表疏_前出师表.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/表疏/前出师表.html.js"), meta: {"title":"前出师表"} }],
@@ -37,6 +36,7 @@ export const routes = Object.fromEntries([
   ["/%E8%A1%A8%E7%96%8F/%E7%AD%94%E5%8F%B8%E9%A9%AC%E8%B0%8F%E8%AE%AE%E4%B9%A6.html", { loader: () => import(/* webpackChunkName: "表疏_答司马谏议书.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/表疏/答司马谏议书.html.js"), meta: {"title":"答司马谏议书"} }],
   ["/%E8%A1%A8%E7%96%8F/%E8%B0%8F%E5%A4%AA%E5%AE%97%E5%8D%81%E6%80%9D%E7%96%8F.html", { loader: () => import(/* webpackChunkName: "表疏_谏太宗十思疏.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/表疏/谏太宗十思疏.html.js"), meta: {"title":"谏太宗十思疏"} }],
   ["/%E8%A1%A8%E7%96%8F/%E9%99%88%E6%83%85%E8%A1%A8.html", { loader: () => import(/* webpackChunkName: "表疏_陈情表.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/表疏/陈情表.html.js"), meta: {"title":"陈情表"} }],
+  ["/%E8%AF%97%E8%AF%8D/", { loader: () => import(/* webpackChunkName: "诗词_index.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/诗词/index.html.js"), meta: {"title":"🌸 诗词类"} }],
   ["/%E8%B5%8B%E8%BE%9E/", { loader: () => import(/* webpackChunkName: "赋辞_index.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/赋辞/index.html.js"), meta: {"title":"赋辞类"} }],
   ["/%E8%B5%8B%E8%BE%9E/%E4%B8%8A%E6%9E%97%E8%B5%8B.html", { loader: () => import(/* webpackChunkName: "赋辞_上林赋.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/赋辞/上林赋.html.js"), meta: {"title":"上林赋"} }],
   ["/%E8%B5%8B%E8%BE%9E/%E4%B8%A4%E9%83%BD%E8%B5%8B.html", { loader: () => import(/* webpackChunkName: "赋辞_两都赋.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/赋辞/两都赋.html.js"), meta: {"title":"两都赋"} }],
@@ -66,13 +66,13 @@ export const routes = Object.fromEntries([
   ["/%E5%9B%BD%E5%AD%A6/%E5%9B%9B%E4%B9%A6/%E5%A4%A7%E5%AD%A6.html", { loader: () => import(/* webpackChunkName: "国学_四书_大学.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/四书/大学.html.js"), meta: {"title":"大学"} }],
   ["/%E5%9B%BD%E5%AD%A6/%E5%9B%9B%E4%B9%A6/%E5%AD%9F%E5%AD%90.html", { loader: () => import(/* webpackChunkName: "国学_四书_孟子.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/四书/孟子.html.js"), meta: {"title":"孟子"} }],
   ["/%E5%9B%BD%E5%AD%A6/%E5%9B%9B%E4%B9%A6/%E8%AE%BA%E8%AF%AD.html", { loader: () => import(/* webpackChunkName: "国学_四书_论语.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/四书/论语.html.js"), meta: {"title":"论语"} }],
-  ["/%E5%9B%BD%E5%AD%A6/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6/", { loader: () => import(/* webpackChunkName: "国学_诸子百家_index.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/诸子百家/index.html.js"), meta: {"title":"诸子百家"} }],
-  ["/%E5%9B%BD%E5%AD%A6/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6/%E5%BA%84%E5%AD%90.html", { loader: () => import(/* webpackChunkName: "国学_诸子百家_庄子.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/诸子百家/庄子.html.js"), meta: {"title":"庄子"} }],
-  ["/%E5%9B%BD%E5%AD%A6/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6/%E8%80%81%E5%AD%90.html", { loader: () => import(/* webpackChunkName: "国学_诸子百家_老子.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/诸子百家/老子.html.js"), meta: {"title":"老子（道德经）"} }],
   ["/%E5%9B%BD%E5%AD%A6/%E8%92%99%E5%AD%A6%E8%AF%BB%E7%89%A9/", { loader: () => import(/* webpackChunkName: "国学_蒙学读物_index.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/蒙学读物/index.html.js"), meta: {"title":"蒙学读物"} }],
   ["/%E5%9B%BD%E5%AD%A6/%E8%92%99%E5%AD%A6%E8%AF%BB%E7%89%A9/%E4%B8%89%E5%AD%97%E7%BB%8F.html", { loader: () => import(/* webpackChunkName: "国学_蒙学读物_三字经.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/蒙学读物/三字经.html.js"), meta: {"title":"三字经"} }],
   ["/%E5%9B%BD%E5%AD%A6/%E8%92%99%E5%AD%A6%E8%AF%BB%E7%89%A9/%E5%8D%83%E5%AD%97%E6%96%87.html", { loader: () => import(/* webpackChunkName: "国学_蒙学读物_千字文.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/蒙学读物/千字文.html.js"), meta: {"title":"千字文"} }],
   ["/%E5%9B%BD%E5%AD%A6/%E8%92%99%E5%AD%A6%E8%AF%BB%E7%89%A9/%E7%99%BE%E5%AE%B6%E5%A7%93.html", { loader: () => import(/* webpackChunkName: "国学_蒙学读物_百家姓.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/蒙学读物/百家姓.html.js"), meta: {"title":"百家姓"} }],
+  ["/%E5%9B%BD%E5%AD%A6/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6/", { loader: () => import(/* webpackChunkName: "国学_诸子百家_index.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/诸子百家/index.html.js"), meta: {"title":"诸子百家"} }],
+  ["/%E5%9B%BD%E5%AD%A6/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6/%E5%BA%84%E5%AD%90.html", { loader: () => import(/* webpackChunkName: "国学_诸子百家_庄子.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/诸子百家/庄子.html.js"), meta: {"title":"庄子"} }],
+  ["/%E5%9B%BD%E5%AD%A6/%E8%AF%B8%E5%AD%90%E7%99%BE%E5%AE%B6/%E8%80%81%E5%AD%90.html", { loader: () => import(/* webpackChunkName: "国学_诸子百家_老子.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/诸子百家/老子.html.js"), meta: {"title":"老子（道德经）"} }],
   ["/%E8%AF%97%E8%AF%8D/%E5%85%83%E6%9B%B2/", { loader: () => import(/* webpackChunkName: "诗词_元曲_index.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/诗词/元曲/index.html.js"), meta: {"title":"元曲"} }],
   ["/%E8%AF%97%E8%AF%8D/%E5%85%83%E6%9B%B2/%E5%A4%A7%E5%BE%B7%E6%AD%8C%C2%B7%E6%98%A5.html", { loader: () => import(/* webpackChunkName: "诗词_元曲_大德歌·春.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/诗词/元曲/大德歌·春.html.js"), meta: {"title":"大德歌·春"} }],
   ["/%E8%AF%97%E8%AF%8D/%E5%85%83%E6%9B%B2/%E5%A4%A7%E5%BE%B7%E6%AD%8C%C2%B7%E6%98%A5%EF%BC%88%E9%80%89%EF%BC%89.html", { loader: () => import(/* webpackChunkName: "诗词_元曲_大德歌·春（选）.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/诗词/元曲/大德歌·春（选）.html.js"), meta: {"title":"大德歌·春（选）"} }],
@@ -176,20 +176,3 @@ export const routes = Object.fromEntries([
   ["/%E8%AF%97%E8%AF%8D/%E9%AD%8F%E6%99%8B%E5%8D%97%E5%8C%97%E6%9C%9D/%E9%A5%AE%E9%85%92%C2%B7%E5%85%B6%E4%BA%94.html", { loader: () => import(/* webpackChunkName: "诗词_魏晋南北朝_饮酒·其五.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/诗词/魏晋南北朝/饮酒·其五.html.js"), meta: {"title":"饮酒·其五"} }],
   ["/404.html", { loader: () => import(/* webpackChunkName: "404.html" */"/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/404.html.js"), meta: {"title":""} }],
 ]);
-
-if (import.meta.webpackHot) {
-  import.meta.webpackHot.accept()
-  if (__VUE_HMR_RUNTIME__.updateRoutes) {
-    __VUE_HMR_RUNTIME__.updateRoutes(routes)
-  }
-  if (__VUE_HMR_RUNTIME__.updateRedirects) {
-    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
-  }
-}
-
-if (import.meta.hot) {
-  import.meta.hot.accept(({ routes, redirects }) => {
-    __VUE_HMR_RUNTIME__.updateRoutes(routes)
-    __VUE_HMR_RUNTIME__.updateRedirects(redirects)
-  })
-}
