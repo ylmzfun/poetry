@@ -1,5 +1,5 @@
 import comp from "/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/序记/滕王阁序.html.vue"
-const data = JSON.parse("{\"path\":\"/%E5%BA%8F%E8%AE%B0/%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F.html\",\"title\":\"滕王阁序\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"git\":{},\"filePathRelative\":\"序记/滕王阁序.md\"}")
+const data = JSON.parse("{\"path\":\"/%E5%BA%8F%E8%AE%B0/%E6%BB%95%E7%8E%8B%E9%98%81%E5%BA%8F.html\",\"title\":\"滕王阁序\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"git\":{\"updatedTime\":1759814383000,\"contributors\":[{\"name\":\"ylmzfun\",\"username\":\"ylmzfun\",\"email\":\"ylmzfun@163.com\",\"commits\":3,\"url\":\"https://github.com/ylmzfun\"}],\"changelog\":[{\"hash\":\"49d99a91bf888542fc5030384aa7a8a856b8ee5c\",\"time\":1759814383000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"优化展示逻辑\"},{\"hash\":\"c7af36bf3eb6f2afb328e224a362f075c9d482f9\",\"time\":1759531479000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"补充内容\"},{\"hash\":\"8991152bd4df6899789cf1d8679198e5396e5df7\",\"time\":1759328802000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"诗词\"}]},\"filePathRelative\":\"序记/滕王阁序.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {

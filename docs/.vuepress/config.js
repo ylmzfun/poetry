@@ -7,6 +7,9 @@ export default defineUserConfig({
   title: '古文辞章汇编',
   description: '传承中华文化经典',
   
+  // GitHub Pages 部署配置
+  base: '/poetry/',
+  
   bundler: viteBundler(),
   
   theme: defaultTheme({

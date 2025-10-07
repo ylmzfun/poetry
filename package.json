@@ -7,6 +7,8 @@
     "docs:dev": "vuepress dev docs",
     "docs:build": "vuepress build docs",
     "docs:serve": "vuepress serve docs",
+    "docs:clean": "rm -rf docs/.vuepress/dist",
+    "deploy": "npm run docs:clean && npm run docs:build",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

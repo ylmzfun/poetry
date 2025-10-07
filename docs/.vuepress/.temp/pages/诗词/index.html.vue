@@ -74,10 +74,10 @@
 </ul>
 <h2 id="🔗-相关链接" tabindex="-1"><a class="header-anchor" href="#🔗-相关链接"><span>🔗 相关链接</span></a></h2>
 <ul>
-<li><RouteLink to="/%E8%AF%97%E8%AF%8D%E7%B1%BB%E7%B4%A2%E5%BC%95.html">诗词类索引</RouteLink> - 完整的诗词作品索引表</li>
-<li><RouteLink to="/%E5%BA%8F%E8%AE%B0/">序记类</RouteLink> - 古代散文作品</li>
-<li><RouteLink to="/%E8%A1%A8%E7%96%8F/">表疏类</RouteLink> - 古代应用文体</li>
-<li><RouteLink to="/%E5%9B%BD%E5%AD%A6/">国学经典</RouteLink> - 四书五经等经典著作</li>
+<li><a href="/%E8%AF%97%E8%AF%8D%E7%B1%BB%E7%B4%A2%E5%BC%95.html" target="_blank" rel="noopener noreferrer">诗词类索引</a> - 完整的诗词作品索引表</li>
+<li><a href="/%E5%BA%8F%E8%AE%B0/" target="_blank" rel="noopener noreferrer">序记类</a> - 古代散文作品</li>
+<li><a href="/%E8%A1%A8%E7%96%8F/" target="_blank" rel="noopener noreferrer">表疏类</a> - 古代应用文体</li>
+<li><a href="/%E5%9B%BD%E5%AD%A6/" target="_blank" rel="noopener noreferrer">国学经典</a> - 四书五经等经典著作</li>
 </ul>
 <hr>
 <blockquote>

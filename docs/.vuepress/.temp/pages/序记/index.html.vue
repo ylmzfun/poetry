@@ -106,10 +106,10 @@
 </ul>
 <h2 id="🔗-相关链接" tabindex="-1"><a class="header-anchor" href="#🔗-相关链接"><span>🔗 相关链接</span></a></h2>
 <ul>
-<li><RouteLink to="/%E5%BA%8F%E8%AE%B0%E7%B1%BB%E7%B4%A2%E5%BC%95.html">序记类索引</RouteLink> - 完整的序记类作品索引表</li>
-<li><RouteLink to="/%E8%AF%97%E8%AF%8D/">诗词类</RouteLink> - 古代诗词作品</li>
-<li><RouteLink to="/%E8%A1%A8%E7%96%8F/">表疏类</RouteLink> - 古代应用文体</li>
-<li><RouteLink to="/%E8%B5%8B%E8%BE%9E/">赋辞类</RouteLink> - 古代赋体文学</li>
+<li><a href="/%E5%BA%8F%E8%AE%B0%E7%B1%BB%E7%B4%A2%E5%BC%95.html" target="_blank" rel="noopener noreferrer">序记类索引</a> - 完整的序记类作品索引表</li>
+<li><a href="/%E8%AF%97%E8%AF%8D/" target="_blank" rel="noopener noreferrer">诗词类</a> - 古代诗词作品</li>
+<li><a href="/%E8%A1%A8%E7%96%8F/" target="_blank" rel="noopener noreferrer">表疏类</a> - 古代应用文体</li>
+<li><a href="/%E8%B5%8B%E8%BE%9E/" target="_blank" rel="noopener noreferrer">赋辞类</a> - 古代赋体文学</li>
 </ul>
 <hr>
 <blockquote>

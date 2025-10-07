@@ -1,5 +1,5 @@
 import comp from "/Users/ylmzfun/Documents/study/note/poetry/docs/.vuepress/.temp/pages/国学/五经/index.html.vue"
-const data = JSON.parse("{\"path\":\"/%E5%9B%BD%E5%AD%A6/%E4%BA%94%E7%BB%8F/\",\"title\":\"五经\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"git\":{},\"filePathRelative\":\"国学/五经/README.md\"}")
+const data = JSON.parse("{\"path\":\"/%E5%9B%BD%E5%AD%A6/%E4%BA%94%E7%BB%8F/\",\"title\":\"五经\",\"lang\":\"zh-CN\",\"frontmatter\":{},\"git\":{\"updatedTime\":1759814383000,\"contributors\":[{\"name\":\"ylmzfun\",\"username\":\"ylmzfun\",\"email\":\"ylmzfun@163.com\",\"commits\":1,\"url\":\"https://github.com/ylmzfun\"}],\"changelog\":[{\"hash\":\"49d99a91bf888542fc5030384aa7a8a856b8ee5c\",\"time\":1759814383000,\"email\":\"ylmzfun@163.com\",\"author\":\"ylmzfun\",\"message\":\"优化展示逻辑\"}]},\"filePathRelative\":\"国学/五经/README.md\"}")
 export { comp, data }
 
 if (import.meta.webpackHot) {
